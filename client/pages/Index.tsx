@@ -24,6 +24,14 @@ export default function Index() {
       />
 
       <main className="article-main">
+        {/* Hero Image with responsive srcSet */}
+        <img
+          loading="lazy"
+          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb0ebb4c2b4ea42a0ba0562917c45949f?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb0ebb4c2b4ea42a0ba0562917c45949f?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb0ebb4c2b4ea42a0ba0562917c45949f?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb0ebb4c2b4ea42a0ba0562917c45949f?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb0ebb4c2b4ea42a0ba0562917c45949f?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb0ebb4c2b4ea42a0ba0562917c45949f?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb0ebb4c2b4ea42a0ba0562917c45949f?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb0ebb4c2b4ea42a0ba0562917c45949f"
+          className="hero-image"
+          alt="Featured content"
+        />
+
         {/* Opening Section */}
         <TextSection>
           <p>
