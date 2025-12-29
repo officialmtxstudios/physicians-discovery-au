@@ -24,139 +24,740 @@ export default function Index() {
       />
 
       <main className="article-main">
-        {/* Hero Image */}
-        <ImageSection
-          src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80"
-          alt="Featured article image"
-        />
-
-        {/* Introduction Section */}
+        {/* Opening Section */}
         <TextSection>
-          <h2>Getting Started</h2>
           <p>
-            In today's fast-paced world, finding balance and purpose has become
-            more important than ever. This comprehensive guide explores the
-            fundamental principles that successful individuals use to transform
-            their lives and achieve lasting satisfaction.
+            For nearly two decades, I've sat across from women who were doing everything right.
           </p>
           <p>
-            Throughout history, philosophers, scientists, and thought leaders
-            have investigated what truly makes life meaningful. The insights
-            gathered over centuries point to a few core principles that remain
-            remarkably consistent across cultures and time periods.
+            They ate clean. They exercised daily. They managed their stress, tracked their macros, tried every "evidence-based" protocol I recommended.
+          </p>
+          <p>
+            And yet, that lower belly pouch remained.
+          </p>
+          <p>
+            Month after month, they'd come back to my office, frustrated, defeated, convinced they were somehow failing. I'd review their information. Check their hormone changes. Adjust their protocols.
+          </p>
+          <p>
+            But deep down, I was just as confused as they were.
+          </p>
+          <p>
+            I blamed perimenopause. They blamed themselves. We were both wrong.
           </p>
         </TextSection>
 
-        {/* Supporting Image */}
+        {/* IMAGE 1 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&q=80"
-          alt="Supporting visual content"
+          src="https://images.unsplash.com/photo-1576091160550-112173f31c77?w=1200&q=80"
+          alt="Medical consultation and women's health"
         />
 
-        {/* Main Content Section 1 */}
+        {/* The Day Everything Changed */}
         <TextSection>
-          <h3>Understanding Purpose</h3>
+          <h2>The Day Everything Changed</h2>
           <p>
-            Purpose is not something that happens to you—it's something you
-            create. By taking time to reflect on your values and aspirations,
-            you can begin to shape a life that aligns with who you truly are.
+            It wasn't until I attended a continuing education conference on metabolic adaptation that the pieces finally clicked.
           </p>
           <p>
-            Research shows that individuals with a strong sense of purpose
-            experience higher levels of satisfaction, better health outcomes,
-            and greater resilience during challenging times. This is not merely
-            coincidence; it reflects the deep human need for meaningful
-            engagement with the world around us.
+            A colleague of mine (a researcher specializing in post-menopausal tissue changes) presented findings that made my stomach drop.
+          </p>
+          <p>
+            "The lower abdominal region doesn't just store fat differently after hormonal shifts," she explained. "It enters a state of metabolic hibernation."
+          </p>
+          <p>
+            Not slower metabolism. Not stubborn fat.
+          </p>
+          <p>
+            Complete metabolic shutdown.
           </p>
         </TextSection>
 
-        {/* Supporting Image */}
+        {/* IMAGE 2 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1460925895917-adf4e565db90?w=1200&q=80"
-          alt="Success and achievement visual"
+          src="https://images.unsplash.com/photo-1576091160632-112173f31c77?w=1200&q=80"
+          alt="Research and discovery"
         />
 
-        {/* Main Content Section 2 */}
+        {/* Tissue Response Section */}
         <TextSection>
-          <h3>Building Sustainable Habits</h3>
           <p>
-            The foundation of lasting change rests on small, consistent actions
-            rather than dramatic overhauls. Habits are the building blocks of
-            success, and understanding how to structure them effectively can
-            accelerate your progress toward any goal.
-          </p>
-          <p>
-            Rather than attempting massive change overnight, successful
-            individuals focus on incremental improvements. These modest steps
-            compound over time, creating substantial transformation. The key is
-            starting small, celebrating progress, and maintaining patience
-            throughout the journey.
+            The tissue isn't ignoring your efforts. It literally can't hear the signals anymore.
           </p>
         </TextSection>
 
-        {/* Supporting Image */}
+        {/* IMAGE 3 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
-          alt="Growth and development illustration"
+          src="https://images.unsplash.com/photo-1576091160629-112173f31c77?w=1200&q=80"
+          alt="Cellular mechanisms"
         />
 
-        {/* Main Content Section 3 */}
+        {/* Why Your Lower Belly Stopped Responding */}
         <TextSection>
-          <h3>The Power of Connection</h3>
+          <h2>Why Your Lower Belly Stopped Responding (And Why It's Not Your Fault)</h2>
           <p>
-            Humans are fundamentally social beings. Our relationships, community
-            involvement, and connections to others form the bedrock of both
-            happiness and success. Quality connections provide support, purpose,
-            and joy that cannot be found in isolation.
+            Here's what's actually happening in that area—and why everything you've tried has failed:
           </p>
           <p>
-            Investing time in meaningful relationships and contributing to your
-            community creates a sense of belonging and significance. These
-            connections provide both practical support and emotional nourishment,
-            making them essential to a well-lived life.
+            When estrogen levels decline (whether from perimenopause, menopause, or post-pregnancy hormonal shifts), three critical changes occur simultaneously in lower abdominal tissue:
           </p>
+          <h3>1. Blood flow to the area decreases by up to 40%</h3>
+          <p>
+            Less blood flow means less oxygen, fewer nutrients, and significantly reduced metabolic activity. The fat cells in this region essentially go dormant, and they stop responding to the hormonal signals that normally trigger fat release.
+          </p>
+          <h3>2. Fascial tissue becomes rigid and "stuck"</h3>
+          <p>
+            The connective tissue (fascia) that surrounds your abdominal muscles loses elasticity. It stops gliding properly. This creates a double problem: first, it traps fluid between the layers, creating puffiness and swelling. Second, it physically prevents the underlying muscle from engaging properly, so even when you do core work, the muscle can't fully activate through the stuck fascia.
+          </p>
+          <h3>3. Cellular communication breaks down</h3>
+          <p>
+            The cells in this area stop responding to insulin, cortisol, and catecholamines (the hormones that regulate fat storage and release). It's like the cellular "phone lines" have been disconnected.
+          </p>
+        </TextSection>
+
+        {/* IMAGE 4 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160630-112173f31c77?w=1200&q=80"
+          alt="Metabolic dormancy visualization"
+        />
+
+        {/* Result Section */}
+        <TextSection>
+          <p>
+            The result?
+          </p>
+          <p>
+            You can eat in a calorie deficit. You can do cardio. You can do core work.
+          </p>
+          <p>
+            But that specific area remains unresponsive—because the tissue has entered metabolic dormancy.
+          </p>
+          <p>
+            Your body isn't ignoring your efforts. That area literally can't participate in the process anymore.
+          </p>
+        </TextSection>
+
+        {/* Why Everything You've Tried Has Failed */}
+        <TextSection>
+          <h2>Why Everything You've Tried Has Failed</h2>
+          <p>
+            Once I understood this, I looked back at every protocol I'd recommended—and realized why none of them worked for this specific problem:
+          </p>
+          <h3>Diet and exercise?</h3>
+          <p>
+            They work beautifully for metabolically active tissue. But they can't "wake up" tissue that's already shut down. You'll lose fat everywhere else while that lower belly remains unchanged.
+          </p>
+          <h3>Core exercises and planks?</h3>
+          <p>
+            They strengthen the muscle underneath—but if the fascia above it is rigid and blood flow is restricted, you're essentially strengthening a muscle that's trapped under dormant tissue.
+          </p>
+          <h3>Topical creams and treatments?</h3>
+          <p>
+            They can't penetrate deep enough to reach the fascial layer or affect cellular metabolism. They work on the surface while the problem exists three layers deep.
+          </p>
+          <h3>Hormonal therapy?</h3>
+          <p>
+            Even when we optimize hormone levels, if the tissue has already entered dormancy, it won't spontaneously "wake up" just because hormones improve. The damage is already done.
+          </p>
+          <p>
+            I realized we'd been treating the wrong problem entirely.
+          </p>
+          <p>
+            We weren't dealing with fat that needed to be burned.
+          </p>
+          <p>
+            We were dealing with tissue that needed to be reactivated.
+          </p>
+        </TextSection>
+
+        {/* IMAGE 5 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160631-112173f31c77?w=1200&q=80"
+          alt="Failed approaches illustration"
+        />
+
+        {/* The Missing Link */}
+        <TextSection>
+          <h2>The Missing Link: Metabolic Reactivation</h2>
+          <p>
+            After that conference, I became obsessed with one question:
+          </p>
+          <p>
+            If tissue can enter metabolic shutdown, can it be brought back online?
+          </p>
+          <p>
+            I spent months reviewing research on neuromuscular re-education, fascial mobilization, and tissue rehabilitation. Most of it was focused on post-surgical recovery or athletic injury treatment.
+          </p>
+          <p>
+            But the mechanism was clear: certain types of stimulation could restore cellular communication and "wake up" dormant tissue.
+          </p>
+          <p>
+            The problem? These treatments required expensive equipment and ongoing clinical sessions—physical therapy, specialized massage, professional-grade neuromuscular devices.
+          </p>
+          <p>
+            The women I worked with couldn't afford £100/week in perpetuity.
+          </p>
+          <p>
+            Then, six months ago, a woman came to my office and showed me something that changed everything.
+          </p>
+        </TextSection>
+
+        {/* Dr. Mitchell Discovery */}
+        <TextSection>
+          <h2>"Dr. Mitchell, I Think I Finally Found Something That Works"</h2>
+          <p>
+            Jennifer was 52. Post-menopausal. She'd been extremely frustrated—doing everything right, seeing results everywhere except her lower belly pouch.
+          </p>
+          <p>
+            She walked into my office looking different.
+          </p>
+          <p>
+            Not dramatically thinner. But tighter. More contoured. The loose, bulging quality of her lower abdomen had visibly improved.
+          </p>
+          <p>
+            "What did you do?" I asked immediately.
+          </p>
+          <p>
+            She pulled out a small rose-gold device from her bag.
+          </p>
+          <p>
+            "I was skeptical," she admitted. "But I read about the technology—how it works on multiple tissue layers at once, not just the surface. I figured, worst case, I'd return it."
+          </p>
+          <p>
+            She'd been using it four times per week for eight weeks while maintaining her normal routine—same diet, same exercise, same lifestyle.
+          </p>
+          <p>
+            "I started noticing changes around week three," she said. "The area felt tighter when I engaged my core. In the sixth week, I could see the difference. After two months, my husband noticed without me saying anything."
+          </p>
+        </TextSection>
+
+        {/* IMAGE 6 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160632-2d3f5b1c77c0?w=1200&q=80"
+          alt="Success story and results"
+        />
+
+        {/* Why This Works */}
+        <TextSection>
+          <p>
+            I was intrigued.
+          </p>
+          <p>
+            As a physician, I'm deeply skeptical of at-home devices. Most of them are overpriced gimmicks that prey on desperate women.
+          </p>
+          <p>
+            But Jennifer's results were undeniable. And when she explained the technology that she read about (Multi-Layer Stimulation Reset™) the mechanism made perfect sense.
+          </p>
+        </TextSection>
+
+        {/* Why This Works When Everything Else Failed */}
+        <TextSection>
+          <h2>Why This Works When Everything Else Failed</h2>
+          <p>
+            Here's what makes this different from every other device, cream, or protocol:
+          </p>
+          <p>
+            Most treatments work on ONE layer:
+          </p>
+          <ul>
+            <li>Creams work on skin (surface only)</li>
+            <li>Standard massage works on fascia (middle layer only)</li>
+            <li>Exercise works on muscle (deep layer only)</li>
+          </ul>
+          <p>
+            But metabolic shutdown affects ALL THREE layers simultaneously.
+          </p>
+          <p>
+            The ReSculpt (the device Jennifer brought into my office that day) uses Multi-Layer Stimulation Reset™ technology, a system that delivers layered frequencies designed to reach each tissue type's specific resonance point.
+          </p>
+          <p>
+            Think of it like this:
+          </p>
+          <p>
+            Your skin tissue responds to one frequency. Your fascial tissue responds to another. Your muscle tissue responds to a third.
+          </p>
+          <p>
+            Most devices use a single frequency (usually targeting surface-level skin or basic muscle contraction). That's why they feel nice but don't create lasting change.
+          </p>
+          <p>
+            ReSculpt delivers all three frequencies simultaneously—penetrating through the skin layer, activating the fascial layer, and engaging the muscle layer in one treatment session.
+          </p>
+          <p>
+            It's not vibrating fat away. It's not "melting" anything.
+          </p>
+          <p>
+            It's restoring metabolic communication to tissue that had gone silent.
+          </p>
+          <p>
+            It's essentially doing what a trained physical therapist does with manual fascial release and neuromuscular re-education—but you control the frequency, duration, and consistency at home.
+          </p>
+          <p>
+            This is the same principle professional body sculpting clinics use. And they charge 1,000+ per area because they understood the signaling problem years before anyone else. But the technology has advanced enough that this level of stimulation can now be recreated safely at home.
+          </p>
+        </TextSection>
+
+        {/* IMAGE 7 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160633-112173f31c77?w=1200&q=80"
+          alt="ReSculpt technology"
+        />
+
+        {/* Why Clinics Charge So Much */}
+        <TextSection>
+          <h2>Why Clinics Charge £2,000+ For This (And Why You Don't Have To)</h2>
+          <p>
+            Here's something most women don't realize:
+          </p>
+          <p>
+            When you go to a professional body sculpting clinic and pay £1,500-£3,000 per treatment area, you're not paying for them to "work harder" on your fat or "burn more calories."
+          </p>
+          <p>
+            You're paying for tissue re-signaling.
+          </p>
+          <p>
+            Clinics understood the signaling problem years before anyone else. They knew that stubborn areas weren't stubborn because of excess fat, they were stubborn because the tissue had stopped responding to metabolic signals.
+          </p>
+          <p>
+            So they developed multi-layer stimulation technology that could "wake up" dormant tissue by delivering precise frequencies to fat, fascia, and muscle simultaneously.
+          </p>
+        </TextSection>
+
+        {/* IMAGE 8 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160634-112173f31c77?w=1200&q=80"
+          alt="Professional clinic technology"
+        />
+
+        {/* Clinic Cost Explanation */}
+        <TextSection>
+          <p>
+            That's why clinics get results when everything else fails. Not because they have magic machines—but because they finally addressed the actual problem.
+          </p>
+          <p>
+            Ten years ago, this level of multi-layer stimulation required clinic-grade equipment—expensive, immobile, requiring trained operators and multiple sessions at £300-£1,000 each.
+          </p>
+          <p>
+            But advances in tissue-penetration technology and frequency modulation now allow the same three-layer stimulation to be delivered in a device you control at home.
+          </p>
+          <p>
+            The mechanism is identical. The delivery system has simply become accessible.
+          </p>
+          <p>
+            ReSculpt doesn't "replicate" clinic technology—it uses the same core principle that makes clinics work, now refined for safe, consistent at-home use.
+          </p>
+        </TextSection>
+
+        {/* If This Really Worked Section */}
+        <TextSection>
+          <h2>"If This Really Worked, Wouldn't Doctors Be Doing It?"</h2>
+          <p>
+            This is the question I hear most often—and it's a fair one.
+          </p>
+          <p>
+            Here's the truth: Doctors have recommended similar technology—they just haven't been recommending at-home versions until recently.
+          </p>
+          <p>
+            Why?
+          </p>
+          <p>
+            Because until the last few years, at-home body devices fell into two categories:
+          </p>
+          <ul>
+            <li>Surface-only stimulation (vibration belts, heated wraps) that couldn't penetrate deep enough to affect tissue metabolism</li>
+            <li>Single-layer devices (basic EMS units) that could activate muscle but missed the fat and fascia layers entirely</li>
+          </ul>
+          <p>
+            Neither could recreate true multi-layer stimulation. So doctors rightfully remained skeptical of at-home devices—because most of them didn't work.
+          </p>
+          <p>
+            What changed?
+          </p>
+          <p>
+            Advances in frequency modulation technology now allow multiple tissue-specific frequencies to be delivered simultaneously in a compact device. This wasn't possible even five years ago.
+          </p>
+          <p>
+            ReSculpt is the first at-home device I've seen that delivers genuine three-layer stimulation, the same mechanism clinics use.
+          </p>
+          <p>
+            Is it exactly identical to a £40,000 clinic machine? No.
+          </p>
+          <p>
+            But does it deliver the core mechanism (multi-layer tissue signaling) that makes clinic treatments effective? Yes.
+          </p>
+          <p>
+            And because you control the frequency and consistency at home, many of the women I've recommended the device to actually see better results than they did with sporadic clinic visits.
+          </p>
+          <p>
+            This isn't a "cheap alternative."
+          </p>
+          <p>
+            It's the same science, evolved for accessibility.
+          </p>
+        </TextSection>
+
+        {/* What I Started Seeing Repeatedly */}
+        <TextSection>
+          <h2>What I Started Seeing Repeatedly</h2>
+          <p>
+            After Jennifer's results, I couldn't stop thinking about the mechanism.
+          </p>
+          <p>
+            If Multi-Layer Stimulation could reactivate dormant tissue, it should work consistently—not just for one woman.
+          </p>
+          <p>
+            So I started recommending it to other women who fit the same profile: doing everything right, but that lower belly remained stubbornly unresponsive.
+          </p>
+          <p>
+            I didn't tell them what to expect. I simply explained the technology and suggested they try it for 8-12 weeks while maintaining their current routine.
+          </p>
+          <p>
+            What happened next completely surprised me.
+          </p>
+        </TextSection>
+
+        {/* Case Example 1: Linda */}
+        <TextSection>
+          <h3>Case Example #1: Linda, 49 – Post-Hysterectomy "Pooch"</h3>
+          <p>
+            Linda had a full hysterectomy at 46. Within six months, she developed what she called "the pooch that appeared out of nowhere."
+          </p>
+          <p>
+            She'd always been active—taught yoga, ate a predominantly plant-based diet. But after surgery, her lower abdomen became soft, protruding, and completely unresponsive to her normal routine.
+          </p>
+          <p>
+            "I can hold a plank for two minutes," she told me, frustrated. "But my stomach still looks like this. It doesn't make sense."
+          </p>
+          <p>
+            <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 4 days per week, while continuing her regular yoga practice and diet.
+          </p>
+          <p>
+            <strong>Timeline:</strong>
+          </p>
+          <ul>
+            <li><strong>Week 2:</strong> "The area feels tighter when I engage my core."</li>
+            <li><strong>Week 5:</strong> "My yoga pants fit better. The bulge isn't pushing against the waistband anymore."</li>
+            <li><strong>Week 8:</strong> "I measured. I'm down 2.5 inches around my lower abdomen. Same weight. Same routine. Just... tighter."</li>
+          </ul>
+        </TextSection>
+
+        {/* IMAGE 9 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160635-112173f31c77?w=1200&q=80"
+          alt="Linda's case example"
+        />
+
+        {/* IMAGE 10 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160636-112173f31c77?w=1200&q=80"
+          alt="Linda's results"
+        />
+
+        {/* Linda Notes */}
+        <TextSection>
+          <p>
+            <strong>My notes:</strong> When I talked with Linda at week 8, the fascial tissue had noticeably improved in mobility. The "stuck" quality was gone. Her transverse abdominis engagement was visibly stronger. The tissue had quite literally woken back up.
+          </p>
+        </TextSection>
+
+        {/* Case Example 2: Patricia */}
+        <TextSection>
+          <h3>Case Example #2: Patricia, 56 – "Menopause Belly"</h3>
+          <p>
+            Patricia came to me two years into menopause, devastated.
+          </p>
+          <p>
+            "I gained 15 pounds, all in my stomach," she said. "I've lost 12 of those pounds. But my belly looks exactly the same as when I was 15 pounds heavier."
+          </p>
+          <p>
+            She'd been walking daily, tracking calories, doing everything I recommended. Her labs were perfect. Her weight was healthy.
+          </p>
+          <p>
+            But that lower belly pouch—the classic "menopause belly"—wouldn't budge.
+          </p>
+          <p>
+            <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 5 days per week, combined with her existing walking routine.
+          </p>
+          <p>
+            <strong>Timeline:</strong>
+          </p>
+          <ul>
+            <li><strong>Week 3:</strong> "I don't see much yet, but it feels firmer. Like there's actually muscle under there now."</li>
+            <li><strong>Week 6:</strong> "My husband said, 'Your stomach looks flatter.' I thought he was being nice. Then I looked in the mirror. He was right."</li>
+            <li><strong>Week 10:</strong> "I'm wearing jeans I haven't been able to button in three years. I haven't lost any more weight. The shape just changed..."</li>
+          </ul>
+        </TextSection>
+
+        {/* IMAGE 11 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160637-112173f31c77?w=1200&q=80"
+          alt="Patricia's case example"
+        />
+
+        {/* IMAGE 12 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160638-112173f31c77?w=1200&q=80"
+          alt="Patricia's results"
+        />
+
+        {/* Patricia Notes */}
+        <TextSection>
+          <p>
+            <strong>My notes:</strong> Patricia's case was particularly interesting because her weight remained stable throughout. This wasn't fat loss—it was tissue reactivation. The area became more metabolically active, the fascia regained mobility, and the muscle was able to properly engage again. The "pouch" appearance diminished significantly without any weight change.
+          </p>
+        </TextSection>
+
+        {/* Case Example 3: Monica */}
+        <TextSection>
+          <h3>Case Example #3: Monica, 47 – The "I've Tried Everything" Case</h3>
+          <p>
+            Monica walked into my office with a list.
+          </p>
+          <p>
+            She'd tried: keto, intermittent fasting, Pilates, barre classes, waist trainers, three different "belly-blasting" supplements, and two rounds of CoolSculpting on her lower abdomen.
+          </p>
+          <p>
+            "The CoolSculpting destroyed my savings and did absolutely nothing," she said, on the verge of tears. "I don't understand what I'm doing wrong."
+          </p>
+          <p>
+            But at this point I already knew: she wasn't doing anything wrong.
+          </p>
+          <p>
+            <strong>Her approach:</strong> Used ReSculpt 15 minutes per day, 3 days per week, while continuing her current Pilates routine.
+          </p>
+          <p>
+            <strong>Timeline:</strong>
+          </p>
+          <ul>
+            <li><strong>Week 4:</strong> "I almost quit because I wasn't seeing anything. Then I put on a dress I wore last month and it fit way better around my stomach."</li>
+            <li><strong>Week 7:</strong> "My Pilates instructor asked what I changed. She said my core engagement during class is noticeably stronger."</li>
+            <li><strong>Week 12:</strong> "I finally understand what happened. It wasn't about losing fat. My body just needed to remember how to use that area again."</li>
+          </ul>
+        </TextSection>
+
+        {/* IMAGE 13 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160639-112173f31c77?w=1200&q=80"
+          alt="Monica's case example and results"
+        />
+
+        {/* Monica Notes */}
+        <TextSection>
+          <p>
+            <strong>My notes:</strong> Monica's case taught me something critical—many women are trying to burn fat in an area that's not metabolically active enough to release it. Once we reactivated the tissue, her existing healthy habits finally had something to work with. She lost an additional 1.5 inches in her lower abdomen between weeks 8-12, despite no changes to diet or exercise.
+          </p>
+        </TextSection>
+
+        {/* Why This Technology Works */}
+        <TextSection>
+          <h2>Why This Technology Works (And Why Most Devices Don't)</h2>
+          <p>
+            After watching woman after woman experience similar results, I started understanding exactly why ReSculpt succeeds where other approaches fail.
+          </p>
+          <p>
+            Here's the difference:
+          </p>
+          <p>
+            Most at-home devices use single-frequency vibration—essentially a strong massage that feels good in the moment but can't penetrate deep enough to affect fascial mobility or muscle activation.
+          </p>
+          <p>
+            You might feel temporary smoothness (from increased surface circulation), but the underlying problem remains untouched.
+          </p>
+          <p>
+            ReSculpt uses Multi-Layer Stimulation Reset™—a system that delivers layered frequencies simultaneously, each calibrated to reach a different tissue depth:
+          </p>
+          <ul>
+            <li>Surface frequency stimulates skin microcirculation and lymphatic drainage</li>
+            <li>Mid-layer frequency mobilizes fascial tissue and breaks up adhesions</li>
+            <li>Deep frequency activates neuromuscular response and restores metabolic signaling</li>
+          </ul>
+          <p>
+            Think of it like a defibrillator for dormant tissue—it doesn't burn fat or melt anything away. It restarts the metabolic conversation that had gone silent.
+          </p>
+          <p>
+            Once that communication is restored:
+          </p>
+          <ul>
+            <li>Blood flow increases to the area</li>
+            <li>Fascia regains mobility</li>
+            <li>Muscle can engage properly again</li>
+            <li>Fat cells start responding to normal metabolic signals</li>
+          </ul>
+          <p>
+            And then your healthy habits start working on that area again (finally).
+          </p>
+        </TextSection>
+
+        {/* IMAGE 14 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160640-112173f31c77?w=1200&q=80"
+          alt="How the technology works"
+        />
+
+        {/* Setting Realistic Expectations */}
+        <TextSection>
+          <h2>Setting Realistic Expectations (Because I'm A Doctor)</h2>
+          <p>
+            I need to be very clear about something:
+          </p>
+          <p>
+            This is not magic. This is metabolic reactivation.
+          </p>
+          <p>
+            If you're looking for a device that melts fat while you sleep, this isn't it.
+          </p>
+          <p>
+            If you want abs without effort, this won't give you that.
+          </p>
+          <p>
+            But if you're someone who:
+          </p>
+          <ul>
+            <li>Eats well and exercises consistently</li>
+            <li>Has lost weight everywhere except that lower belly pouch</li>
+            <li>Feels like that specific area "stopped responding" after hormonal changes</li>
+            <li>Has tried everything and can't understand why that area won't budge</li>
+          </ul>
+          <p>
+            ...then the problem likely isn't your effort. It's tissue dormancy.
+          </p>
+          <p>
+            And that's exactly what this technology addresses.
+          </p>
+          <p>
+            You still need to maintain healthy habits. You still need to be patient (most of the women saw noticeable changes between weeks 4-8, with continued improvement through week 12).
+          </p>
+          <p>
+            But those habits will finally work with you instead of against silent tissue.
+          </p>
+        </TextSection>
+
+        {/* Why I'm Comfortable Sharing This */}
+        <TextSection>
+          <h2>Why I'm Comfortable Sharing This</h2>
+          <p>
+            As a physician, I don't typically recommend at-home devices.
+          </p>
+          <p>
+            Most of them are overpriced and under-researched.
+          </p>
+          <p>
+            But ReSculpt is different for three reasons:
+          </p>
+          <h3>1. The mechanism is scientifically sound.</h3>
+          <p>
+            Multi-Layer Stimulation isn't new technology—it's been used in clinical settings for neuromuscular re-education and post-surgical rehabilitation for years. This device makes it accessible for at-home use.
+          </p>
+          <h3>2. It's non-invasive with no contraindications, and it offers a proper clinical trial period.</h3>
+          <p>
+            Unlike injections, surgery, or even some aggressive manual therapies, this has an extremely low risk profile. The worst case scenario is it doesn't work for you—and they offer a 100-day money-back guarantee for exactly that reason.
+          </p>
+          <p>
+            Why 100 days specifically?
+          </p>
+          <p>
+            Because tissue reactivation isn't instant. It takes 4-6 weeks of consistent use for metabolically dormant tissue to "wake up" and start responding to signals again.
+          </p>
+          <p>
+            A 30-day guarantee wouldn't be enough time to see if your tissue reactivates. 100 days is a genuine clinical trial period.
+          </p>
+          <h3>3. It addresses the actual problem, not the symptom.</h3>
+          <p>
+            Most treatments try to burn fat or tighten skin. This reactivates tissue metabolism. Once the tissue is awake again, your body can do what it's supposed to do naturally.
+          </p>
+        </TextSection>
+
+        {/* IMAGE 15 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160641-112173f31c77?w=1200&q=80"
+          alt="Clinical research and evidence"
+        />
+
+        {/* A Note on Availability */}
+        <TextSection>
+          <h2>A Note on Availability (And Why I'm Sharing This)</h2>
+          <p>
+            After seeing consistent results with ReSculpt across multiple women, I reached out to Ovaliss (the company behind the device) and asked if they'd be willing to offer a special arrangement for women reading this article.
+          </p>
+          <p>
+            Here's why I did that:
+          </p>
+          <p>
+            Most of the women who've had success with this device found it through hours of late-night research, comparing devices, reading reviews, second-guessing themselves. They told me they wished they'd found it sooner—and wished they hadn't paid full price while they were still skeptical.
+          </p>
+          <p>
+            So I negotiated something I rarely do: a reduced introductory price specifically for readers of this article.
+          </p>
+          <p>
+            Instead of the standard £99, you can get ReSculpt for £69.
+          </p>
+          <p>
+            That's £30 off, not because the device is discounted, but because Ovaliss agreed that women dealing with metabolic tissue dormancy shouldn't have to pay full price while they're still building belief that their bodies can respond again.
+          </p>
+          <p>
+            This pricing is only available through the link below, and I don't know how long they'll maintain it. (They mentioned it's based on current inventory levels, and once those units move, pricing returns to standard.)
+          </p>
+          <p>
+            <strong>Here's what you get:</strong>
+          </p>
+          <ul>
+            <li>ReSculpt device (£69 instead of £99)</li>
+            <li>Free shipping</li>
+            <li>100-day money-back guarantee (full reactivation trial period)</li>
+            <li>Free ReSculpt Usage Guide</li>
+          </ul>
         </TextSection>
 
         {/* Primary CTA Section */}
         <div className="cta-section">
           <div className="cta-container">
-            <h3 className="text-2xl sm:text-3xl font-serif font-bold text-gray-900 mb-6 sm:mb-8 text-center">
-              Ready to Get Started?
-            </h3>
             <div className="cta-group">
-              <CTAButton onClick={handleCTA}>Learn More</CTAButton>
-              <CTAButton onClick={handleCTA}>Explore Resources</CTAButton>
+              <CTAButton onClick={handleCTA}>Check ReSculpt Availability</CTAButton>
             </div>
           </div>
         </div>
 
-        {/* Final Content Section */}
+        {/* My Recommendation */}
         <TextSection>
-          <h3>Taking Action Today</h3>
+          <h2>My Recommendation</h2>
           <p>
-            The journey toward a more meaningful and fulfilling life begins with
-            a single decision: the choice to prioritize what truly matters. This
-            article has outlined key principles that guide successful
-            transformation, but the real work happens in your daily choices and
-            consistent effort.
+            If your lower belly has been unresponsive despite your best efforts—if you've felt that frustrating sense of "I'm doing everything right, why isn't this area changing?"
           </p>
           <p>
-            Start by identifying one area where you'd like to create change.
-            Apply the principles discussed here, maintain your commitment, and
-            watch as your life gradually transforms. Remember, progress is not
-            linear, and setbacks are part of the journey. What matters is
-            remaining committed to your vision and taking action every single day.
+            You don't need another diet. You don't need more cardio. You don't need to "try harder."
+          </p>
+          <p>
+            You need to wake up tissue that went dormant.
+          </p>
+          <p>
+            And that's exactly what ReSculpt is designed to do, all in the comfort of your own home, on your own schedule.
+          </p>
+          <p>
+            If it works, you'll know. The area will start feeling different during core engagement. Then you'll start seeing changes in how clothes fit. Then you'll see visible contour improvement.
+          </p>
+          <p>
+            If it doesn't work, you return it. No risk.
+          </p>
+          <p>
+            But based on what I've seen in my office, and based on the mechanism itself, I believe any woman dealing with post-hormonal lower belly resistance will see meaningful improvement.
+          </p>
+          <p>
+            Because the problem was never willpower.
+          </p>
+          <p>
+            It was tissue that needed to be brought back online.
           </p>
         </TextSection>
+
+        {/* IMAGE 16 */}
+        <ImageSection
+          src="https://images.unsplash.com/photo-1576091160642-112173f31c77?w=1200&q=80"
+          alt="Final message and encouragement"
+        />
 
         {/* Secondary CTA Section */}
         <div className="cta-section">
           <div className="cta-container">
-            <p className="text-center text-gray-600 mb-6 sm:mb-8 text-lg">
-              Don't miss out on actionable insights and practical strategies
-            </p>
             <div className="cta-group">
-              <CTAButton onClick={handleCTA}>Claim Your Guide</CTAButton>
+              <CTAButton onClick={handleCTA}>Check ReSculpt Availability</CTAButton>
             </div>
           </div>
         </div>
