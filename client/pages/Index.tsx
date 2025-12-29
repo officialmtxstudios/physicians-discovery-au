@@ -380,20 +380,28 @@ export default function Index() {
           <p>Here's something most women don't realize:</p>
           <p>
             When you go to a professional body sculpting clinic and pay
-            £1,500-£3,000 per treatment area, you're not paying for them to
-            "work harder" on your fat or "burn more calories."
+            £1,500-£3,000 per treatment area, you need to understand what you're
+            actually paying for.
+          </p>
+          <p>
+            You're not paying for them to "work harder" on your fat or "burn more
+            calories."
           </p>
           <p>You're paying for tissue re-signaling.</p>
           <p>
             Clinics understood the signaling problem years before anyone else.
-            They knew that stubborn areas weren't stubborn because of excess
-            fat, they were stubborn because the tissue had stopped responding to
+          </p>
+          <p>
+            They knew that stubborn areas weren't stubborn because of excess fat,
+            they were stubborn because the tissue had stopped responding to
             metabolic signals.
           </p>
           <p>
-            So they developed multi-layer stimulation technology that could
-            "wake up" dormant tissue by delivering precise frequencies to fat,
-            fascia, and muscle simultaneously.
+            So they developed multi-layer stimulation technology.
+          </p>
+          <p>
+            This technology could "wake up" dormant tissue by delivering precise
+            frequencies to fat, fascia, and muscle simultaneously.
           </p>
         </TextSection>
 
@@ -406,28 +414,40 @@ export default function Index() {
         {/* Clinic Cost Explanation */}
         <TextSection>
           <p>
-            That's why clinics get results when everything else fails. Not
-            because they have magic machines—but because they finally addressed
-            the actual problem.
+            That's why clinics get results when everything else fails.
+          </p>
+          <p>
+            Not because they have magic machines—but because they finally
+            addressed the actual problem.
           </p>
           <p>
             Ten years ago, this level of multi-layer stimulation required
-            clinic-grade equipment—expensive, immobile, requiring trained
-            operators and multiple sessions at £300-£1,000 each.
+            clinic-grade equipment.
           </p>
           <p>
-            But advances in tissue-penetration technology and frequency
-            modulation now allow the same three-layer stimulation to be
-            delivered in a device you control at home.
+            It was expensive, immobile, and required trained operators and
+            multiple sessions at £300-£1,000 each.
           </p>
           <p>
-            The mechanism is identical. The delivery system has simply become
-            accessible.
+            But advances in tissue-penetration technology and frequency modulation
+            have changed everything.
           </p>
           <p>
-            ReSculpt doesn't "replicate" clinic technology—it uses the same core
-            principle that makes clinics work, now refined for safe, consistent
-            at-home use.
+            The same three-layer stimulation can now be delivered in a device you
+            control at home.
+          </p>
+          <p>
+            The mechanism is identical.
+          </p>
+          <p>
+            The delivery system has simply become accessible.
+          </p>
+          <p>
+            ReSculpt doesn't "replicate" clinic technology.
+          </p>
+          <p>
+            It uses the same core principle that makes clinics work, now refined
+            for safe, consistent at-home use.
           </p>
         </TextSection>
 
