@@ -317,9 +317,8 @@
 
 @media (min-width: 768px) {
   .hero-image {
-    margin-left: 64px;
-    margin-right: 64px;
-    width: calc(100% - 128px);
+    max-width: 48rem;
+    margin: 20px auto 0;
   }
 }
 
