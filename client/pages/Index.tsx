@@ -313,24 +313,33 @@ export default function Index() {
           <p>But metabolic shutdown affects ALL THREE layers simultaneously.</p>
           <p>
             The ReSculpt (the device Jennifer brought into my office that day)
-            uses Multi-Layer Stimulation Reset™ technology, a system that
-            delivers layered frequencies designed to reach each tissue type's
-            specific resonance point.
+            uses Multi-Layer Stimulation Reset™ technology.
+          </p>
+          <p>
+            This system delivers layered frequencies designed to reach each tissue
+            type's specific resonance point.
           </p>
           <p>Think of it like this:</p>
           <p>
-            Your skin tissue responds to one frequency. Your fascial tissue
-            responds to another. Your muscle tissue responds to a third.
+            Your skin tissue responds to one frequency.
           </p>
+          <p>
+            Your fascial tissue responds to another.
+          </p>
+          <p>Your muscle tissue responds to a third.</p>
           <p>
             Most devices use a single frequency (usually targeting surface-level
-            skin or basic muscle contraction). That's why they feel nice but
-            don't create lasting change.
+            skin or basic muscle contraction).
           </p>
           <p>
-            ReSculpt delivers all three frequencies simultaneously—penetrating
-            through the skin layer, activating the fascial layer, and engaging
-            the muscle layer in one treatment session.
+            That's why they feel nice but don't create lasting change.
+          </p>
+          <p>
+            ReSculpt delivers all three frequencies simultaneously.
+          </p>
+          <p>
+            It penetrates through the skin layer, activates the fascial layer,
+            and engages the muscle layer—all in one treatment session.
           </p>
           <p>It's not vibrating fat away. It's not "melting" anything.</p>
           <p>
@@ -339,15 +348,21 @@ export default function Index() {
           </p>
           <p>
             It's essentially doing what a trained physical therapist does with
-            manual fascial release and neuromuscular re-education—but you
-            control the frequency, duration, and consistency at home.
+            manual fascial release and neuromuscular re-education.
+          </p>
+          <p>
+            But you control the frequency, duration, and consistency at home.
           </p>
           <p>
             This is the same principle professional body sculpting clinics use.
-            And they charge 1,000+ per area because they understood the
-            signaling problem years before anyone else. But the technology has
-            advanced enough that this level of stimulation can now be recreated
-            safely at home.
+          </p>
+          <p>
+            They charge £1,000+ per area because they understood the signaling
+            problem years before anyone else.
+          </p>
+          <p>
+            But the technology has advanced enough that this level of stimulation
+            can now be recreated safely at home.
           </p>
         </TextSection>
 
