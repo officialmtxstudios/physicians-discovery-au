@@ -93,12 +93,6 @@ export default function Index() {
           </p>
         </TextSection>
 
-        {/* IMAGE 3 */}
-        <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F2705ec27625741239bdbee100bf68824?format=webp&width=1200"
-          alt="Medical conference presentation on metabolic signaling pathways"
-        />
-
         {/* Why Your Lower Belly Stopped Responding */}
         <TextSection>
           <h2>Why Your Lower Belly Stopped Responding (And Why It's Not Your Fault)</h2>
