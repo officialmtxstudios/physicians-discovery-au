@@ -482,16 +482,21 @@ export default function Index() {
           </ul>
         </TextSection>
 
-        {/* IMAGE 11 */}
-        <ImageSection
-          src="https://images.unsplash.com/photo-1576091160637-112173f31c77?w=1200&q=80"
-          alt="Patricia's case example"
-        />
-
-        {/* IMAGE 12 */}
-        <ImageSection
-          src="https://images.unsplash.com/photo-1576091160638-112173f31c77?w=1200&q=80"
-          alt="Patricia's results"
+        {/* IMAGE 11 - Patricia's case example and results */}
+        <img
+          loading="lazy"
+          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44"
+          alt="Patricia's case example and results"
+          style={{
+            aspectRatio: "1.78",
+            objectFit: "cover",
+            objectPosition: "center",
+            width: "100%",
+            marginTop: "20px",
+            minHeight: "20px",
+            minWidth: "20px",
+            overflow: "hidden",
+          }}
         />
 
         {/* Patricia Notes */}
@@ -529,10 +534,21 @@ export default function Index() {
           </ul>
         </TextSection>
 
-        {/* IMAGE 13 */}
-        <ImageSection
-          src="https://images.unsplash.com/photo-1576091160639-112173f31c77?w=1200&q=80"
+        {/* IMAGE 13 - Monica's case example and results */}
+        <img
+          loading="lazy"
+          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F87d8000f91f24a5496756fe187ae6b75"
           alt="Monica's case example and results"
+          style={{
+            aspectRatio: "1.78",
+            objectFit: "cover",
+            objectPosition: "center",
+            width: "100%",
+            marginTop: "20px",
+            minHeight: "20px",
+            minWidth: "20px",
+            overflow: "hidden",
+          }}
         />
 
         {/* Monica Notes */}
@@ -582,10 +598,21 @@ export default function Index() {
           </p>
         </TextSection>
 
-        {/* IMAGE 14 */}
-        <ImageSection
-          src="https://images.unsplash.com/photo-1576091160640-112173f31c77?w=1200&q=80"
+        {/* IMAGE 14 - How the technology works */}
+        <img
+          loading="lazy"
+          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F71ea24b2a429429aa8ab1feb8b5b2c04?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F71ea24b2a429429aa8ab1feb8b5b2c04?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F71ea24b2a429429aa8ab1feb8b5b2c04?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F71ea24b2a429429aa8ab1feb8b5b2c04?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F71ea24b2a429429aa8ab1feb8b5b2c04?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F71ea24b2a429429aa8ab1feb8b5b2c04?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F71ea24b2a429429aa8ab1feb8b5b2c04?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F71ea24b2a429429aa8ab1feb8b5b2c04"
           alt="How the technology works"
+          style={{
+            aspectRatio: "1.78",
+            objectFit: "cover",
+            objectPosition: "center",
+            width: "100%",
+            marginTop: "20px",
+            minHeight: "20px",
+            minWidth: "20px",
+            overflow: "hidden",
+          }}
         />
 
         {/* Setting Realistic Expectations */}
