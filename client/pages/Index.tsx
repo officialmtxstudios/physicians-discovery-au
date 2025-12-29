@@ -87,8 +87,8 @@ export default function Index() {
 
         {/* IMAGE 3 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1576091160629-112173f31c77?w=1200&q=80"
-          alt="Cellular mechanisms"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F2705ec27625741239bdbee100bf68824?format=webp&width=1200"
+          alt="Medical conference presentation on metabolic signaling pathways"
         />
 
         {/* Why Your Lower Belly Stopped Responding */}
