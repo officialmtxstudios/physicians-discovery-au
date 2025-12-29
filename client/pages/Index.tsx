@@ -120,11 +120,16 @@ export default function Index() {
           <h3>2. Fascial tissue becomes rigid and "stuck"</h3>
           <p>
             The connective tissue (fascia) that surrounds your abdominal muscles
-            loses elasticity. It stops gliding properly. This creates a double
-            problem: first, it traps fluid between the layers, creating
-            puffiness and swelling. Second, it physically prevents the
-            underlying muscle from engaging properly, so even when you do core
-            work, the muscle can't fully activate through the stuck fascia.
+            loses elasticity. It stops gliding properly.
+          </p>
+          <p>
+            This creates a double problem: first, it traps fluid between the
+            layers, creating puffiness and swelling.
+          </p>
+          <p>
+            Second, it physically prevents the underlying muscle from engaging
+            properly, so even when you do core work, the muscle can't fully
+            activate through the stuck fascia.
           </p>
           <h3>3. Cellular communication breaks down</h3>
           <p>
@@ -167,28 +172,36 @@ export default function Index() {
           </p>
           <h3>Diet and exercise?</h3>
           <p>
-            They work beautifully for metabolically active tissue. But they
-            can't "wake up" tissue that's already shut down. You'll lose fat
-            everywhere else while that lower belly remains unchanged.
+            They work beautifully for metabolically active tissue.
+          </p>
+          <p>
+            But they can't "wake up" tissue that's already shut down. You'll lose
+            fat everywhere else while that lower belly remains unchanged.
           </p>
           <h3>Core exercises and planks?</h3>
           <p>
-            They strengthen the muscle underneath—but if the fascia above it is
-            rigid and blood flow is restricted, you're essentially strengthening
-            a muscle that's trapped under dormant tissue.
+            They strengthen the muscle underneath.
+          </p>
+          <p>
+            But if the fascia above it is rigid and blood flow is restricted,
+            you're essentially strengthening a muscle that's trapped under dormant
+            tissue.
           </p>
           <h3>Topical creams and treatments?</h3>
           <p>
-            They can't penetrate deep enough to reach the fascial layer or
-            affect cellular metabolism. They work on the surface while the
-            problem exists three layers deep.
+            They can't penetrate deep enough to reach the fascial layer or affect
+            cellular metabolism.
+          </p>
+          <p>
+            They work on the surface while the problem exists three layers deep.
           </p>
           <h3>Hormonal therapy?</h3>
           <p>
             Even when we optimize hormone levels, if the tissue has already
             entered dormancy, it won't spontaneously "wake up" just because
-            hormones improve. The damage is already done.
+            hormones improve.
           </p>
+          <p>The damage is already done.</p>
           <p>I realized we'd been treating the wrong problem entirely.</p>
           <p>We weren't dealing with fat that needed to be burned.</p>
           <p>We were dealing with tissue that needed to be reactivated.</p>
