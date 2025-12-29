@@ -443,8 +443,8 @@ export default function Index() {
 
         {/* IMAGE 9 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1576091160635-112173f31c77?w=1200&q=80"
-          alt="Linda's case example"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F388fa817581f4a08a1bfbf2775d5f1f0"
+          alt="Woman in warrior pose demonstrating core strength and engagement"
         />
 
         {/* IMAGE 10 */}
