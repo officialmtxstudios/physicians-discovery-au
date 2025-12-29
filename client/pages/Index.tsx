@@ -443,7 +443,7 @@ export default function Index() {
 
         {/* IMAGE 9 */}
         <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F388fa817581f4a08a1bfbf2775d5f1f0"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F0b0503a80b5e41b891a78230a96a636f"
           alt="Woman in warrior pose demonstrating core strength and engagement"
         />
 
