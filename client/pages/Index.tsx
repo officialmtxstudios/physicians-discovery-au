@@ -74,8 +74,8 @@ export default function Index() {
 
         {/* IMAGE 2 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1576091160632-112173f31c77?w=1200&q=80"
-          alt="Research and discovery"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fe67593564d614ea196aa5e507a64e807?format=webp&width=1200"
+          alt="Medical measurement and body composition assessment"
         />
 
         {/* Tissue Response Section */}
