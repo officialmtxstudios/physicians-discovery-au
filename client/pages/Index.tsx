@@ -722,22 +722,13 @@ export default function Index() {
           <p>And they offer a 100-day money-back guarantee for exactly that reason.</p>
           <p>Why 100 days specifically?</p>
           <p>Because tissue reactivation isn't instant.</p>
-          <p>
-            It takes 4-6 weeks of consistent use for metabolically dormant
-            tissue to "wake up" and start responding to signals again.
-          </p>
-          <p>
-            A 30-day guarantee wouldn't be enough time to see if your tissue
-            reactivates.
-          </p>
+          <p>It takes 4-6 weeks of consistent use for metabolically dormant tissue to "wake up" and start responding to signals again.</p>
+          <p>A 30-day guarantee wouldn't be enough time to see if your tissue reactivates.</p>
           <p>100 days is a genuine clinical trial period.</p>
           <h3>3. It addresses the actual problem, not the symptom.</h3>
           <p>Most treatments try to burn fat or tighten skin.</p>
           <p>This reactivates tissue metabolism.</p>
-          <p>
-            Once the tissue is awake again, your body can do what it's supposed
-            to do naturally.
-          </p>
+          <p>Once the tissue is awake again, your body can do what it's supposed to do naturally.</p>
         </TextSection>
 
         {/* IMAGE 15 - Clinical research and evidence */}
@@ -798,34 +789,21 @@ export default function Index() {
         {/* My Recommendation */}
         <TextSection>
           <h2>My Recommendation</h2>
-          <p>
-            If your lower belly has been unresponsive despite your best efforts.
-          </p>
-          <p>
-            If you've felt that frustrating sense of "I'm doing everything
-            right, why isn't this area changing?"
-          </p>
+          <p>If your lower belly has been unresponsive despite your best efforts.</p>
+          <p>If you've felt that frustrating sense of "I'm doing everything right, why isn't this area changing?"</p>
           <p>You don't need another diet.</p>
           <p>You don't need more cardio.</p>
           <p>You don't need to "try harder."</p>
           <p>You need to wake up tissue that went dormant.</p>
-          <p>
-            And that's exactly what ReSculpt is designed to do, all in the
-            comfort of your own home, on your own schedule.
-          </p>
+          <p>And that's exactly what ReSculpt is designed to do, all in the comfort of your own home, on your own schedule.</p>
           <p>If it works, you'll know.</p>
           <p>The area will start feeling different during core engagement.</p>
           <p>Then you'll start seeing changes in how clothes fit.</p>
           <p>Then you'll see visible contour improvement.</p>
-          <p>If it doesn't work, you return it. No risk.</p>
-          <p>
-            But based on what I've seen in my office, and based on the mechanism
-            itself...
-          </p>
-          <p>
-            I believe any woman dealing with post-hormonal lower belly
-            resistance will see meaningful improvement.
-          </p>
+          <p>If it doesn't work, you return it.</p>
+          <p>No risk.</p>
+          <p>But based on what I've seen in my office, and based on the mechanism itself...</p>
+          <p>I believe any woman dealing with post-hormonal lower belly resistance will see meaningful improvement.</p>
           <p>Because the problem was never willpower.</p>
           <p>It was tissue that needed to be brought back online.</p>
         </TextSection>
