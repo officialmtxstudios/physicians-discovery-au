@@ -853,16 +853,16 @@ export default function Index() {
           <h2>My Recommendation</h2>
           <p>If your lower belly has been unresponsive despite your best efforts.</p>
           <p>If you've felt that frustrating sense of "I'm doing everything right, why isn't this area changing?"</p>
-          <p>You don't need another diet.</p>
-          <p>You don't need more cardio.</p>
-          <p>You don't need to "try harder."</p>
+          <p><b>You don't need another diet.</b></p>
+          <p><b>You don't need more cardio.</b></p>
+          <p><b>You don't need to "try harder."</b></p>
           <p>You need to wake up tissue that went dormant.</p>
           <p>And that's exactly what ReSculpt is designed to do, all in the comfort of your own home, on your own schedule.</p>
           <p>If it works, you'll know.</p>
           <p>The area will start feeling different during core engagement.</p>
           <p>Then you'll start seeing changes in how clothes fit.</p>
           <p>Then you'll see visible contour improvement.</p>
-          <p>If it doesn't work, you return it.</p>
+          <p><b>If it doesn't work, you return it.</b></p>
           <p>No risk.</p>
           <p>But based on what I've seen in my office, and based on the mechanism itself...</p>
           <p>I believe any woman dealing with post-hormonal lower belly resistance will see meaningful improvement.</p>
