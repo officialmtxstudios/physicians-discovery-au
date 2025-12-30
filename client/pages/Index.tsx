@@ -150,10 +150,16 @@ export default function Index() {
             recommended—and realized why none of them worked for this specific
             problem:
           </p>
-          <h3>Diet and exercise?</h3>
+          <h3><span>Diet and exercise?</span></h3>
           <p>They work beautifully for metabolically active tissue.</p>
           <p>But they can't "wake up" tissue that's already shut down.</p>
-          <p>You'll lose fat everywhere else while that lower belly remains unchanged.</p>
+          <p>
+            <b>
+              You'll lose fat everywhere else while that lower belly
+              remains unchanged
+            </b>
+            .
+          </p>
           <h3>Core exercises and planks?</h3>
           <p>They strengthen the muscle underneath.</p>
           <p>But if the fascia above it is rigid and blood flow is restricted, you're essentially strengthening a muscle that's trapped under dormant tissue.</p>
@@ -165,7 +171,11 @@ export default function Index() {
           <p>The damage is already done.</p>
           <p>I realized we'd been treating the wrong problem entirely.</p>
           <p>We weren't dealing with fat that needed to be burned.</p>
-          <p>We were dealing with tissue that needed to be reactivated.</p>
+          <p>
+            <b>
+              We were dealing with tissue that needed to be reactivated.
+            </b>
+          </p>
         </TextSection>
 
         {/* IMAGE 5 */}
