@@ -760,48 +760,20 @@ export default function Index() {
         {/* A Note on Availability */}
         <TextSection>
           <h2>A Note on Availability (And Why I'm Sharing This)</h2>
-          <p>
-            After seeing consistent results with ReSculpt across multiple women,
-            I reached out to Ovaliss (the company behind the device) and asked
-            if they'd be willing to offer a special arrangement for women
-            reading this article.
-          </p>
+          <p>After seeing consistent results with ReSculpt across multiple women, I reached out to Ovaliss (the company behind the device) and asked if they'd be willing to offer a special arrangement for women reading this article.</p>
           <p>Here's why I did that:</p>
-          <p>
-            Most of the women who've had success with this device found it
-            through hours of late-night research.
-          </p>
-          <p>
-            They were comparing devices, reading reviews, second-guessing
-            themselves.
-          </p>
-          <p>
-            They told me they wished they'd found it sooner—and wished they
-            hadn't paid full price while they were still skeptical.
-          </p>
-          <p>
-            So I negotiated something I rarely do: a reduced introductory price
-            specifically for readers of this article.
-          </p>
+          <p>Most of the women who've had success with this device found it through hours of late-night research.</p>
+          <p>They were comparing devices, reading reviews, second-guessing themselves.</p>
+          <p>They told me they wished they'd found it sooner—and wished they hadn't paid full price while they were still skeptical.</p>
+          <p>So I negotiated something I rarely do: a reduced introductory price specifically for readers of this article.</p>
           <p>Instead of the standard £99, you can get ReSculpt for £69.</p>
           <p>That's £30 off, not because the device is discounted.</p>
-          <p>
-            But because Ovaliss agreed that women dealing with metabolic tissue
-            dormancy shouldn't have to pay full price.
-          </p>
-          <p>
-            Not while they're still building belief that their bodies can
-            respond again.
-          </p>
+          <p>But because Ovaliss agreed that women dealing with metabolic tissue dormancy shouldn't have to pay full price.</p>
+          <p>Not while they're still building belief that their bodies can respond again.</p>
           <p>This pricing is only available through the link below.</p>
           <p>I don't know how long they'll maintain it.</p>
-          <p>
-            (They mentioned it's based on current inventory levels, and once
-            those units move, pricing returns to standard.)
-          </p>
-          <p>
-            <strong>Here's what you get:</strong>
-          </p>
+          <p>(They mentioned it's based on current inventory levels, and once those units move, pricing returns to standard.)</p>
+          <p><strong>Here's what you get:</strong></p>
           <ul>
             <li>ReSculpt device (£69 instead of £99)</li>
             <li>Free shipping</li>
