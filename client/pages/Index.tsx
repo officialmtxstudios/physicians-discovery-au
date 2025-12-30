@@ -484,10 +484,10 @@ export default function Index() {
         {/* IMAGE - Before What I Started Seeing Repeatedly */}
         <img
           loading="lazy"
-          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a"
+          src="https://cdn.builder.io/o/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbeaa732e2b924c2a95f0fa4581e0244f?alt=media&token=9e27985e-7950-4658-b834-a78d99c8dfef&apiKey=310e5dbc08df4ac4b4ffe8becccf5fde"
           alt="Patient testimonial results"
           style={{
-            aspectRatio: "1.78",
+            aspectRatio: "1",
             objectFit: "cover",
             objectPosition: "center",
             width: "100%",
