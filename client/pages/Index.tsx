@@ -194,14 +194,21 @@ export default function Index() {
           </p>
           <p>I spent months reviewing research on neuromuscular re-education, fascial mobilization, and tissue rehabilitation.</p>
           <p>Most of it was focused on post-surgical recovery or athletic injury treatment.</p>
-          <p>But the mechanism was clear: certain types of stimulation could restore cellular communication and "wake up" dormant tissue.</p>
+          <p>
+            But the mechanism was clear:{" "}
+            <b>
+              certain types of stimulation could restore cellular
+              communication and "wake up" dormant tissue
+            </b>
+            .
+          </p>
           <p>The problem? These treatments required expensive equipment and ongoing clinical sessions—physical therapy, specialized massage, professional-grade neuromuscular devices.</p>
           <p>
             The women I worked with couldn't afford £100/week in perpetuity.
           </p>
           <p>
-            Then, six months ago, a woman came to my office and showed me
-            something that changed everything.
+            Then, six months ago, a woman came to my office and showed me{" "}
+            <b>something that changed everything</b>.
           </p>
         </TextSection>
 
