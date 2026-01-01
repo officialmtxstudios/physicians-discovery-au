@@ -125,13 +125,8 @@
 }
 
 .header-content {
-  @apply w-full bg-blue-600 py-6 px-4 sm:py-8 sm:px-6;
-}
-
-@media (max-width: 640px) {
-  .header-content {
-    background-color: #ccb0a4;
-  }
+  @apply w-full px-4 sm:px-6 py-6 sm:py-8;
+  background-color: #ccb0a4;
 }
 
 .publication-title {
@@ -264,7 +259,7 @@
 
 /* Article Headline Section */
 .article-headline {
-  @apply w-full bg-white py-8 sm:py-10 px-4 sm:px-6 border-b border-gray-200;
+  @apply w-full bg-white py-4 sm:py-5 px-4 sm:px-6;
 }
 
 .headline-content {
@@ -272,7 +267,14 @@
 }
 
 .article-title {
-  @apply text-3xl sm:text-4xl md:text-5xl font-serif font-bold text-gray-900 mb-3 sm:mb-4 leading-tight;
+  @apply text-3xl sm:text-4xl font-serif font-bold text-gray-900 mb-3 sm:mb-4 leading-tight;
+  font-size: calc(5rem - 8px);
+}
+
+@media (min-width: 1024px) {
+  .article-title {
+    font-size: calc(3rem - 8px);
+  }
 }
 
 @media (max-width: 640px) {
@@ -317,7 +319,7 @@
 .hero-image {
   @apply w-full h-auto object-cover object-center block;
   aspect-ratio: 1.5;
-  margin-top: 32px;
+  margin-top: 16px;
   min-height: 20px;
   min-width: 20px;
   overflow: hidden;
@@ -326,7 +328,7 @@
 @media (min-width: 768px) {
   .hero-image {
     max-width: 48rem;
-    margin: 32px auto 0;
+    margin: 16px auto 0;
   }
 }
 
