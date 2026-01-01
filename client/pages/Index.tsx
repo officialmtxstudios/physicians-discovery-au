@@ -408,7 +408,7 @@ export default function Index() {
 
         {/* IMAGE 7 */}
         <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F19563c0d1fc84c2791d63cf20889ebb1"
+          src="https://cdn.builder.io/o/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F8e652f8789114204b74b4f0816da7d0b?alt=media&token=6dc28b9c-7633-4557-9fc6-7115dc42d078&apiKey=310e5dbc08df4ac4b4ffe8becccf5fde"
           alt="ReSculpt device showing multi-layer penetration into skin, fascia, and muscle"
         />
 
