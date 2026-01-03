@@ -1165,6 +1165,13 @@ export default function Index() {
       </main>
 
       <ArticleFooter />
+
+      <StickyCTA
+        triggerRef={drMitchellSectionRef}
+        href="https://www.ovaliss.com/products/resculpt"
+      >
+        Check ReSculpt Availability
+      </StickyCTA>
     </div>
   );
 }
