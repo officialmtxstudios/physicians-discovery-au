@@ -1050,9 +1050,9 @@ export default function Index() {
             specifically for readers of this article.
           </p>
           <p>
-            <b>Instead of the standard £99, you can get ReSculpt for £69.</b>
+            <b>Instead of the standard £84, you can get ReSculpt for £59.</b>
           </p>
-          <p>That's £30 off, not because the device is discounted.</p>
+          <p>That's £25 off, not because the device is discounted.</p>
           <p>
             But because Ovaliss agreed that women dealing with metabolic tissue
             dormancy shouldn't have to pay full price.
