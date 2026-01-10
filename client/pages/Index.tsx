@@ -280,7 +280,7 @@ export default function Index() {
 
         {/* Dr. Mitchell Discovery */}
         <TextSection>
-          <h2 ref={drMitchellSectionRef}>
+          <h2>
             "Dr. Mitchell, I Think I Finally Found Something That Works"
           </h2>
           <p>Jennifer was 52.</p>
