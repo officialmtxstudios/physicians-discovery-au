@@ -1067,17 +1067,22 @@ export default function Index() {
         <TextSection>
           <h2>My Recommendation</h2>
           <p>
-            If your lower belly has been unresponsive despite your best efforts.
+            Here's what I want you to understand: You haven't failed. If you're reading this article, you've likely been very disciplined, consistent, and smart about your health.
           </p>
           <p>
-            If you've felt that frustrating sense of "I'm doing everything
-            right, why isn't this area changing?"
+            And this isn't about invalidating all that effort you've put in… it's about finally giving your arms the one thing they've been missing.
           </p>
           <p>
-            <b>You don't need another diet.</b>
+            A way to participate in the work you're already doing.
           </p>
           <p>
-            <b>You don't need more cardio.</b>
+            If your upper arms have been unresponsive despite your best efforts—if you've felt that frustrating sense of "I'm doing everything right, why isn't this area changing?"
+          </p>
+          <p>
+            <b>You don't need another arm exercise.</b>
+          </p>
+          <p>
+            <b>You don't need more dieting.</b>
           </p>
           <p>
             <b>You don't need to "try harder."</b>
@@ -1088,8 +1093,8 @@ export default function Index() {
             comfort of your own home, on your own schedule.
           </p>
           <p>If it works, you'll know.</p>
-          <p>The area will start feeling different during core engagement.</p>
-          <p>Then you'll start seeing changes in how clothes fit.</p>
+          <p>The area will start feeling different during arm flexion.</p>
+          <p>Then you'll start seeing changes in how sleeves fit.</p>
           <p>Then you'll see visible contour improvement.</p>
           <p>
             <b>If it doesn't work, you return it.</b>
@@ -1097,10 +1102,7 @@ export default function Index() {
           <p>No risk.</p>
           <p>
             But based on what I've seen in my office, and based on the mechanism
-            itself...
-          </p>
-          <p>
-            I believe any woman dealing with post-hormonal lower belly
+            itself, I believe any woman dealing with post-hormonal upper arm
             resistance will see meaningful improvement.
           </p>
           <p>Because the problem was never willpower.</p>
