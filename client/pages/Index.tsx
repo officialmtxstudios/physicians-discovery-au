@@ -467,8 +467,7 @@ export default function Index() {
             .
           </p>
           <p>
-            It was expensive, immobile, and required trained operators and
-            multiple sessions at $500-$2,000 AUD each.
+            It was expensive, immobile, requiring trained operators and multiple sessions at $500-$1,500 each.
           </p>
           <p>
             But advances in tissue-penetration technology and frequency
@@ -533,7 +532,7 @@ export default function Index() {
             </b>
             , the same mechanism clinics use.
           </p>
-          <p>Is it exactly identical to a $72,000 AUD clinic machine? No.</p>
+          <p>Is it exactly identical to a $60,000 clinic machine? No.</p>
           <p>
             But does it deliver the core mechanism (multi-layer tissue
             signaling) that makes clinic treatments effective?
