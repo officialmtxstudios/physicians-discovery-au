@@ -652,23 +652,14 @@ export default function Index() {
 
         {/* Case Example 2: Patricia */}
         <TextSection>
-          <h3>Case Example #2: Patricia, 56 – "Menopause Belly"</h3>
-          <p>Patricia came to me two years into menopause, devastated.</p>
-          <p>"I gained 15 pounds, all in my stomach," she said.</p>
-          <p>"I've lost 12 of those pounds.</p>
+          <h3>Case Example #2: Patricia, 67 – "I've Been Hiding My Arms for 15 Years"</h3>
+          <p>Patricia came to me devastated.</p>
+          <p>"I haven't worn a short-sleeved top in public since I was 52," she said. "Not to the beach. Not to family gatherings. I feel like I'm trapped."</p>
           <p>
-            But my belly looks exactly the same as when I was 15 pounds
-            heavier."
+            She'd tried everything—tricep exercises, resistance bands, even those arm compression sleeves. Nothing worked.
           </p>
           <p>
-            She'd been walking daily, tracking calories, doing everything I
-            recommended.
-          </p>
-          <p>Her labs were perfect.</p>
-          <p>Her weight was healthy.</p>
-          <p>
-            But that lower belly pouch—the classic "menopause belly"—wouldn't
-            budge.
+            "The exercises made my arms stronger, but they still looked the same," she said. "Just... saggy. Crepey. Old."
           </p>
           <p>
             <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 5
@@ -680,17 +671,16 @@ export default function Index() {
           <ul>
             <li>
               <strong>Week 3:</strong> "I don't see much yet, but it feels
-              firmer. Like there's actually muscle under there now."
+              firmer. Like there's actually muscle definition under there now."
             </li>
             <li>
-              <strong>Week 6:</strong> "My husband said, 'Your stomach looks
-              flatter.' I thought he was being nice. Then I looked in the
-              mirror. He was right."
+              <strong>Week 6:</strong> "My husband said, 'Your arms look
+              different.' I thought he was being nice. Then I looked in the
+              mirror wearing a singlet. He was right."
             </li>
             <li>
-              <strong>Week 10:</strong> "I'm wearing jeans I haven't been able
-              to button in three years. I haven't lost any more weight. The
-              shape just changed..."
+              <strong>Week 10:</strong> "I wore a sleeveless dress to my
+              granddaughter's birthday party. First time in 15 years. I didn't think about my arms once the entire day."
             </li>
           </ul>
         </TextSection>
@@ -716,16 +706,11 @@ export default function Index() {
         <TextSection>
           <p>
             <strong>My notes:</strong> Patricia's case was particularly
-            interesting because her weight remained stable throughout.
+            moving because the psychological shift was as dramatic as the physical one.
           </p>
-          <p>This wasn't fat loss—it was tissue reactivation.</p>
+          <p>This wasn't just about appearance—it was about freedom.</p>
           <p>
-            The area became more metabolically active, the fascia regained
-            mobility, and the muscle was able to properly engage again.
-          </p>
-          <p>
-            The "pouch" appearance diminished significantly without any weight
-            change.
+            The tissue reactivation gave her back the confidence to stop hiding.
           </p>
         </TextSection>
 
