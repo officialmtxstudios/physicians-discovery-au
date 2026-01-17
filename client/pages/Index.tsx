@@ -199,6 +199,16 @@ export default function Index() {
             </b>
             .
           </p>
+        </TextSection>
+
+        {/* IMAGE 5 */}
+        <ImageSection
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F13d695dc2d6c4eed8142d039c365b0d8?format=webp&width=800"
+          alt="Why arm exercises don't work on dormant tissue"
+        />
+
+        {/* Why Everything Failed Continued */}
+        <TextSection>
           <h3>Arm exercises and tricep dips?</h3>
           <p>They strengthen the muscle underneath.</p>
           <p>
