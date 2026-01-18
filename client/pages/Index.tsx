@@ -116,11 +116,11 @@ export default function Index() {
             you've tried has failed:
           </p>
           <p>
-            When estrogen levels decline (whether from menopause, or
-            age-related hormonal shifts),{" "}
+            When estrogen levels decline (whether from menopause, or age-related
+            hormonal shifts),{" "}
             <b>
-              &nbsp;three critical changes occur simultaneously in upper
-              arm tissue
+              &nbsp;three critical changes occur simultaneously in upper arm
+              tissue
             </b>
             :
           </p>
@@ -130,8 +130,8 @@ export default function Index() {
             significantly reduced metabolic activity.
           </p>
           <p>
-            The fat cells in this region essentially go to sleep, and they
-            stop responding to the hormonal signals that normally trigger fat
+            The fat cells in this region essentially go to sleep, and they stop
+            responding to the hormonal signals that normally trigger fat
             release.
           </p>
           <h3>2. Fascial tissue becomes rigid and "stuck"</h3>
@@ -151,8 +151,8 @@ export default function Index() {
           </p>
           <h3>3. Cellular communication breaks down</h3>
           <p>
-            The cells in this area stop responding to insulin, cortisol,
-            and the other hormones that regulate fat storage and release).
+            The cells in this area stop responding to insulin, cortisol, and the
+            other hormones that regulate fat storage and release).
           </p>
           <p>It's like the cellular "phone lines" have been disconnected.</p>
         </TextSection>
@@ -168,12 +168,16 @@ export default function Index() {
           <p>The result?</p>
           <p>You can eat in a calorie deficit.</p>
           <p>
-            <b><span style={{ fontWeight: "normal" }}>You can do cardio.</span></b>
+            <b>
+              <span style={{ fontWeight: "normal" }}>You can do cardio.</span>
+            </b>
           </p>
           <p>
-            <b><span style={{ fontWeight: "normal" }}>
-              You can do arm exercises.
-            </span></b>
+            <b>
+              <span style={{ fontWeight: "normal" }}>
+                You can do arm exercises.
+              </span>
+            </b>
           </p>
           <p>
             But that specific area remains unresponsive—because{" "}
@@ -260,15 +264,12 @@ export default function Index() {
             I spent months reading research about tissue rehab.
             <br />
           </p>
-          <p>
-            Most of it was about recovery after surgery or sports
-            injuries.
-          </p>
+          <p>Most of it was about recovery after surgery or sports injuries.</p>
           <p>
             But the mechanism was clear:{" "}
             <b>
-              &nbsp;certain types of stimulation could restore cellular communication
-              and "wake up" dormant tissue
+              &nbsp;certain types of stimulation could restore cellular
+              communication and "wake up" dormant tissue
             </b>
             .
           </p>
@@ -344,8 +345,7 @@ export default function Index() {
           </p>
           <p>
             And when she explained the technology that she read about
-            (Multi-Layer Stimulation Reset) the mechanism made perfect
-            sense.
+            (Multi-Layer Stimulation Reset) the mechanism made perfect sense.
           </p>
         </TextSection>
 
@@ -377,8 +377,8 @@ export default function Index() {
             &nbsp;simultaneously.
           </p>
           <p>
-            The ReSculpt (the device Jennifer brought into my office that
-            day) uses Multi-Layer Stimulation Reset technology.
+            The ReSculpt (the device Jennifer brought into my office that day)
+            uses Multi-Layer Stimulation Reset technology.
           </p>
           <p>
             This system delivers layered vibrations designed to reach each
@@ -481,8 +481,8 @@ export default function Index() {
           <p>
             Ten years ago,{" "}
             <b>
-              &nbsp;this level of multi-layer stimulation required
-              clinic-grade equipment
+              &nbsp;this level of multi-layer stimulation required clinic-grade
+              equipment
             </b>
             .
           </p>
@@ -514,9 +514,8 @@ export default function Index() {
           <h2>"If This Really Worked, Wouldn't Doctors Be Doing It?"</h2>
           <p>This is the question I hear most often—and it's a fair one.</p>
           <p>
-            Here's the truth: Doctors have recommended similar technology,
-            they just haven't been recommending at-home versions until
-            recently.
+            Here's the truth: Doctors have recommended similar technology, they
+            just haven't been recommending at-home versions until recently.
           </p>
           <p>Why?</p>
           <p>
@@ -531,8 +530,8 @@ export default function Index() {
               <br />
             </li>
             <li>
-              Single-layer devices (basic EMS units) that could activate
-              muscle but missed the fat and fascia layers entirely
+              Single-layer devices (basic EMS units) that could activate muscle
+              but missed the fat and fascia layers entirely
             </li>
           </ul>
           <p>Neither could recreate true multi-layer stimulation.</p>
@@ -544,9 +543,9 @@ export default function Index() {
             <b>What changed?</b>
           </p>
           <p>
-            Advances in technology now allow multiple frequencies designed
-            for different layers of tissue to be delivered simultaneously
-            in a single device.
+            Advances in technology now allow multiple frequencies designed for
+            different layers of tissue to be delivered simultaneously in a
+            single device.
           </p>
           <p>This wasn't possible even five years ago.</p>
           <p>
@@ -891,8 +890,8 @@ export default function Index() {
           <p>But the underlying problem remains untouched.</p>
           <p>
             <b>
-              ReSculpt uses Multi-Layer Stimulation Reset—a system that
-              delivers layered frequencies simultaneously
+              ReSculpt uses Multi-Layer Stimulation Reset—a system that delivers
+              layered frequencies simultaneously
             </b>
             , each calibrated to reach a different tissue depth:
           </p>
@@ -934,9 +933,7 @@ export default function Index() {
               <br />
               <br />
             </li>
-            <li>
-              Fat cells start responding to normal metabolic signals.
-            </li>
+            <li>Fat cells start responding to normal metabolic signals.</li>
           </ul>
           <p>
             And then your healthy habits start working on that area again
@@ -975,8 +972,9 @@ export default function Index() {
             If you're looking for a device that melts fat while you sleep, this
             isn't it.
           </p>
-          <p>If you want toned arms without effort, this won't give you
-          that.</p>
+          <p>
+            If you want toned arms without effort, this won't give you that.
+          </p>
           <p>But if you're someone who:</p>
           <ul>
             <li>
@@ -990,14 +988,14 @@ export default function Index() {
               <br />
             </li>
             <li>
-              Feels like that specific area "stopped responding" after
-              hormonal changes,
+              Feels like that specific area "stopped responding" after hormonal
+              changes,
               <br />
               <br />
             </li>
             <li>
-              Has tried everything and can't understand why that area
-              won't budge,
+              Has tried everything and can't understand why that area won't
+              budge,
             </li>
           </ul>
           <p>...then the problem likely isn't your effort.</p>
@@ -1082,12 +1080,11 @@ export default function Index() {
         <TextSection>
           <h2>A Note on Availability (And Why I'm Sharing This)</h2>
           <p>
-            After seeing consistent results with ReSculpt across multiple
-            women,
+            After seeing consistent results with ReSculpt across multiple women,
             <b>
-              &nbsp;I reached out to Ovaliss (the company behind the
-              device) and asked if they'd be willing to offer a special
-              arrangement for women reading this article
+              &nbsp;I reached out to Ovaliss (the company behind the device) and
+              asked if they'd be willing to offer a special arrangement for
+              women reading this article
             </b>
             .
           </p>
@@ -1143,8 +1140,7 @@ export default function Index() {
               <br />
             </li>
             <li>
-              100-day money-back guarantee (full reactivation trial
-              period)
+              100-day money-back guarantee (full reactivation trial period)
             </li>
             <li>Free ReSculpt Usage Guide</li>
           </ul>
