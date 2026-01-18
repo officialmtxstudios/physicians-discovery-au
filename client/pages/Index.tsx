@@ -167,10 +167,10 @@ export default function Index() {
           <p>The result?</p>
           <p>You can eat in a calorie deficit.</p>
           <p>
-            <b><span style="font-weight: normal;">You can do cardio.</span></b>
+            <b><span style={{ fontWeight: "normal" }}>You can do cardio.</span></b>
           </p>
           <p>
-            <b><span style="font-weight: normal;">
+            <b><span style={{ fontWeight: "normal" }}>
               You can do arm exercises.
             </span></b>
           </p>
