@@ -652,11 +652,15 @@ export default function Index() {
             <li>
               <strong>Week 2:</strong> "The area feels tighter when I flex my
               arm."
+              <br />
+              <br />
             </li>
             <li>
               <strong>Week 5:</strong> "My sister asked if I'd had surgery. I
               told her no, but I could see what she meant. The hanging part is
               less... droopy."
+              <br />
+              <br />
             </li>
             <li>
               <strong>Week 8:</strong> "I measured. I'm down 2 inches around my
