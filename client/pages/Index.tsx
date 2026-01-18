@@ -1131,10 +1131,19 @@ export default function Index() {
             <strong>Here's what you get:</strong>
           </p>
           <ul>
-            <li>ReSculpt device ($119 instead of $199)</li>
-            <li>Free shipping</li>
             <li>
-              100-day money-back guarantee (full reactivation trial period)
+              ReSculpt device ($119 instead of $199)
+              <br />
+              <br />
+            </li>
+            <li>
+              Free shipping
+              <br />
+              <br />
+            </li>
+            <li>
+              100-day money-back guarantee (full reactivation trial
+              period)
             </li>
             <li>Free ReSculpt Usage Guide</li>
           </ul>
