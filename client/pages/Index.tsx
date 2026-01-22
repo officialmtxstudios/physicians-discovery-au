@@ -312,27 +312,12 @@ export default function Index() {
         {/* What I Started Seeing Repeatedly */}
         <TextSection>
           <h2 ref={drMitchellSectionRef}>What I Started Seeing Repeatedly</h2>
-          <p>
-            After Jennifer's results, I couldn't stop thinking about the
-            mechanism.
-          </p>
-          <p>
-            If Multi-Layer Stimulation could reactivate dormant tissue, it
-            should work consistently—not just for one woman.
-          </p>
-          <p>
-            <b>So I started recommending it to other women</b> who fit the same
-            profile: doing everything right, but that upper arms remained
-            stubbornly unresponsive.
-          </p>
-          <p>
-            I didn't tell them what to expect. I simply explained the technology
-            and suggested they try it for 8-12 weeks while maintaining their
-            current routine.
-          </p>
-          <p>
-            <b>What happened next completely surprised me.</b>
-          </p>
+          <p>After Jennifer's results, I couldn't stop thinking about it.</p>
+          <p>If Multi-Layer Stimulation could wake up sleeping tissue, it should work regularly—not just for one woman.</p>
+          <p>So I started recommending it to other women who fit the same pattern: doing everything right, but those upper arms stayed stubbornly unresponsive.</p>
+          <p>I didn't tell them what to expect.</p>
+          <p>I just explained the technology and said to try it for 8-12 weeks while keeping their normal routine.</p>
+          <p>What happened next totally surprised me.</p>
         </TextSection>
 
         {/* Case Example 1: Linda */}
