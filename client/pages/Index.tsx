@@ -356,49 +356,18 @@ export default function Index() {
         {/* Case Example 2: Patricia */}
         <TextSection>
           <h3>
-            Case Example #2: Patricia, 67 – "I've Been Hiding My Arms for 15
-            Years"
+            Case Example #2: Patricia, 67 – "I've Been Hiding My Arms for 15 Years"
           </h3>
           <p>Patricia came to me devastated.</p>
-          <p>
-            "I haven't worn a short-sleeved top in public since I was 52," she
-            said. "Not to the beach. Not to family gatherings. I feel like I'm
-            trapped."
-          </p>
-          <p>
-            She'd tried everything—tricep exercises, resistance bands, even
-            those arm compression sleeves. Nothing worked.
-          </p>
-          <p>
-            "The exercises made my arms stronger, but they still looked the
-            same," she said. "Just... saggy. Crepey. Old."
-          </p>
-          <p>
-            <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 5
-            days per week, combined with her existing walking routine.
-          </p>
-          <p>
-            <strong>Timeline:</strong>
-          </p>
+          <p>"I haven't worn a short-sleeved top in public since I was 52," she said. "Not to the beach. Not to family gatherings. I feel trapped."</p>
+          <p>She'd tried everything—tricep exercises, resistance bands, even those arm compression sleeves. Nothing worked.</p>
+          <p>"The exercises made my arms stronger, but they still looked the same," she said. "Just... saggy. Wrinkly. Old."</p>
+          <p>Her plan: Used ReSculpt 10 minutes per day, 5 days per week, along with her regular walking routine.</p>
+          <p>Timeline:</p>
           <ul>
-            <li>
-              <strong>Week 3:</strong> "I don't see much yet, but it feels
-              firmer. Like there's actually muscle definition under there now."
-              <br />
-              <br />
-            </li>
-            <li>
-              <strong>Week 6:</strong> "My husband said, 'Your arms look
-              different.' I thought he was being nice. Then I looked in the
-              mirror wearing a singlet. He was right."
-              <br />
-              <br />
-            </li>
-            <li>
-              <strong>Week 10:</strong> "I wore a sleeveless dress to my
-              granddaughter's birthday party. First time in 15 years. I didn't
-              think about my arms once the entire day."
-            </li>
+            <li>Week 3: "I don't see much yet, but it feels firmer. Like there's actually muscle showing under there now."<br /><br /></li>
+            <li>Week 6: "My husband said, 'Your arms look different.' I thought he was being nice. Then I looked in the mirror wearing a singlet. He was right."<br /><br /></li>
+            <li>Week 10: "I wore a sleeveless dress to my granddaughter's birthday party. First time in 15 years. I didn't think about my arms once the whole day."</li>
           </ul>
         </TextSection>
 
