@@ -403,47 +403,15 @@ export default function Index() {
             Case Example #3: Monica, 59 – The "I've Tried Everything" Case
           </h3>
           <p>Monica walked into my office with a list.</p>
-          <p>
-            She'd tried: special arm exercises from YouTube, firming creams,
-            collagen supplements, three different personal trainers, and even
-            considered arm lift surgery.
-          </p>
-          <p>
-            "My surgeon quoted me $12,000," she said, nearly in tears. "I can't
-            afford that. But I hate my arms so much I was considering it
-            anyway."
-          </p>
-          <p>
-            Her arms weren't dramatically large—they were just loose, soft, and
-            completely unresponsive to everything she'd tried.
-          </p>
-          <p>
-            <strong>Her approach:</strong> Used ReSculpt 15 minutes per day, 3
-            days per week, while continuing her current Pilates routine.
-          </p>
-          <p>
-            <strong>Timeline:</strong>
-          </p>
+          <p>She'd tried: special arm exercises from YouTube, firming creams, collagen pills, three different personal trainers, and even thought about arm lift surgery.</p>
+          <p>"My surgeon said it would cost $12,000," she said, almost crying. "I can't afford that. But I hate my arms so much I was thinking about it anyway."</p>
+          <p>Her arms weren't really large—they were just loose, soft, and totally unresponsive to everything she'd tried.</p>
+          <p>Her plan: Used ReSculpt 15 minutes per day, 3 days per week, while keeping her current Pilates routine.</p>
+          <p>Timeline:</p>
           <ul>
-            <li>
-              <strong>Week 4:</strong> "I almost quit because I wasn't seeing
-              anything. Then I put on a dress I wore last month and the sleeves
-              fit way better."
-              <br />
-              <br />
-            </li>
-            <li>
-              <strong>Week 7:</strong> "My Pilates instructor asked what I
-              changed. She said my arm definition during class is noticeably
-              stronger."
-              <br />
-              <br />
-            </li>
-            <li>
-              <strong>Week 12:</strong> "I finally understand what happened. It
-              wasn't about losing fat. My body just needed to remember how to
-              use that area again."
-            </li>
+            <li>Week 4: "I almost quit because I wasn't seeing anything. Then I put on a dress I wore last month and the sleeves fit way better."<br /><br /></li>
+            <li>Week 7: "My Pilates teacher asked what I changed. She said my arm shape during class is clearly better."<br /><br /></li>
+            <li>Week 12: "I finally get what happened. It wasn't about losing fat. My body just needed to remember how to use that area again."</li>
           </ul>
         </TextSection>
 
