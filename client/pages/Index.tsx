@@ -62,27 +62,12 @@ export default function Index() {
         {/* The Day Everything Changed */}
         <TextSection>
           <h2>The Day Everything Changed</h2>
-          <p>
-            It wasn't until I attended a continuing education conference on
-            metabolic adaptation that <b>the pieces finally clicked</b>.
-          </p>
-          <p>
-            A colleague of mine (a researcher specialising in post-menopausal
-            tissue changes) presented findings that made my stomach drop.
-          </p>
-          <p>
-            "The upper arm region doesn't just store fat differently after
-            hormonal shifts," she explained.
-          </p>
-          <p>"It enters a state of metabolic hibernation."</p>
-          <p>Not slower metabolism. Not stubborn fat.</p>
-          <p>
-            <b>Complete metabolic shutdown.</b>
-          </p>
-          <p>
-            The tissue isn't ignoring your efforts. It literally can't hear the
-            signals anymore.
-          </p>
+          <p>Then I went to a conference on metabolic adaptation.</p>
+          <p>A researcher showed findings that shocked me.</p>
+          <p>"The upper arm area doesn't just store fat differently after hormones change," she said. "It enters a state of metabolic hibernation."</p>
+          <p>Not slower. Not stubborn.</p>
+          <p>Complete shutdown.</p>
+          <p>The tissue isn't ignoring your efforts. It literally can't hear the signals anymore.</p>
         </TextSection>
 
         {/* IMAGE 2 */}
