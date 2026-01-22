@@ -392,14 +392,9 @@ export default function Index() {
 
         {/* Patricia Notes */}
         <TextSection>
-          <p>
-            <strong>My notes:</strong> Patricia's case was particularly moving
-            because the psychological shift was as dramatic as the physical one.
-          </p>
-          <p>This wasn't just about appearance—it was about freedom.</p>
-          <p>
-            The tissue reactivation gave her back the confidence to stop hiding.
-          </p>
+          <p>My notes: Patricia's case was really moving because the mental shift was as big as the physical one.</p>
+          <p>This wasn't just about looks—it was about freedom.</p>
+          <p>The tissue waking up gave her back the confidence to stop hiding.</p>
         </TextSection>
 
         {/* Case Example 3: Monica */}
