@@ -41,29 +41,23 @@ export default function Index() {
         {/* Opening Section */}
         <TextSection>
           <p>
-            For nearly two decades, I've sat across from women who were doing
+            For almost twenty years, I've sat across from women who were doing
             everything right.
           </p>
           <p>They ate clean.</p>
-          <p>They exercised daily.</p>
+          <p>They exercised every day.</p>
+          <p>They tried every protocol I gave them.</p>
+          <p>And yet, their upper arms stayed soft and jiggly.</p>
           <p>
-            They managed their stress, tracked their macros, tried every
-            "evidence-based" protocol I recommended.
+            Month after month, they'd come back to my office. Frustrated.
+            Defeated… Sure they were failing somehow.
           </p>
           <p>
-            And yet, <strong>their upper arms remained soft and jiggly</strong>.
+            I'd review their information. Check their hormones. Change their
+            plans.
           </p>
-          <p>
-            Month after month, they'd come back to my office, frustrated,
-            defeated, convinced they were somehow failing.
-          </p>
-          <p>I'd review their information.</p>
-          <p>Check their hormone changes.</p>
-          <p>Adjust their protocols.</p>
-          <p>
-            But deep down, <b>I was just as confused as they were</b>.
-          </p>
-          <p>I blamed perimenopause.</p>
+          <p>But deep down, I was just as confused as they were.</p>
+          <p>I blamed menopause.</p>
           <p>They blamed themselves.</p>
           <p>We were both wrong.</p>
         </TextSection>
@@ -77,23 +71,15 @@ export default function Index() {
         {/* The Day Everything Changed */}
         <TextSection>
           <h2>The Day Everything Changed</h2>
+          <p>Then I went to a conference on metabolic adaptation.</p>
+          <p>A researcher showed findings that shocked me.</p>
           <p>
-            It wasn't until I attended a continuing education conference on
-            metabolic adaptation that <b>the pieces finally clicked</b>.
+            "The upper arm area doesn't just store fat differently after
+            hormones change," she said. "It enters a state of metabolic
+            hibernation."
           </p>
-          <p>
-            A colleague of mine (a researcher specialising in post-menopausal
-            tissue changes) presented findings that made my stomach drop.
-          </p>
-          <p>
-            "The upper arm region doesn't just store fat differently after
-            hormonal shifts," she explained.
-          </p>
-          <p>"It enters a state of metabolic hibernation."</p>
-          <p>Not slower metabolism. Not stubborn fat.</p>
-          <p>
-            <b>Complete metabolic shutdown.</b>
-          </p>
+          <p>Not slower. Not stubborn.</p>
+          <p>Complete shutdown.</p>
           <p>
             The tissue isn't ignoring your efforts. It literally can't hear the
             signals anymore.
@@ -112,49 +98,50 @@ export default function Index() {
             Why Your Upper Arms Stopped Responding (And Why It's Not Your Fault)
           </h2>
           <p>
-            Here's what's actually happening in that area—and why everything
-            you've tried has failed:
+            Here's what's really happening—and why nothing you've tried has
+            worked:
           </p>
           <p>
-            When estrogen levels decline (whether from menopause, or age-related
-            hormonal shifts),{" "}
-            <b>
-              &nbsp;three critical changes occur simultaneously in upper arm
-              tissue
-            </b>
-            :
+            When your hormone levels drop (from menopause or aging), three big
+            changes happen at once in your upper arm tissue:
           </p>
-          <h3>1. Blood flow to the area decreases by up to 40%</h3>
+          <h3>1. Blood flow drops by up to 40%</h3>
           <p>
-            Less blood flow means less oxygen, fewer nutrients, and
-            significantly reduced metabolic activity.
+            Think of it like a garden hose that got kinked—the water can barely
+            trickle through anymore.
           </p>
+          <p>Less blood means less oxygen and fewer nutrients.</p>
+          <p>The fat cells go to sleep.</p>
           <p>
-            The fat cells in this region essentially go to sleep, and they stop
-            responding to the hormonal signals that normally trigger fat
-            release.
+            They stop responding to the signals that normally make them release
+            the fat.
           </p>
-          <h3>2. Fascial tissue becomes rigid and "stuck"</h3>
+          <h3>2. The tissue under your skin gets stiff and "stuck"</h3>
           <p>
-            The connective tissue (fascia) that surrounds your arm muscles loses
-            elasticity.
-          </p>
-          <p>It stops gliding properly.</p>
-          <p>
-            This creates a double problem: first, it traps fluid between the
-            layers, creating the jiggly, wobbly quality of bat wings.
+            It's like cling wrap that got crumpled and won't lay flat anymore—it
+            bunches up and traps everything underneath.
           </p>
           <p>
-            Second, it physically prevents the underlying muscle from engaging
-            properly, so even when you do arm exercises, the muscle can't fully
-            activate through the stuck fascia.
+            The tissue that surrounds your arm muscles loses stretch. It stops
+            moving right.
           </p>
-          <h3>3. Cellular communication breaks down</h3>
+          <p>This creates two problems:</p>
           <p>
-            The cells in this area stop responding to insulin, cortisol, and the
-            other hormones that regulate fat storage and release).
+            First, it traps fluid, creating the jiggly, wobbly look of bat
+            wings.
           </p>
-          <p>It's like the cellular "phone lines" have been disconnected.</p>
+          <p>
+            Second, it blocks the muscle underneath. So even when you do arm
+            exercises, the muscle can't work properly through the stuck tissue.
+          </p>
+          <h3>3. Cell communication breaks down</h3>
+          <p>
+            Like the phone lines got cut—or the Wi-Fi went out. The cells are
+            there, they're just not getting the signal anymore.
+          </p>
+          <p>
+            The cells stop responding to the hormones that control fat storage.
+          </p>
         </TextSection>
 
         {/* IMAGE 4 */}
@@ -166,46 +153,37 @@ export default function Index() {
         {/* Result Section */}
         <TextSection>
           <p>The result?</p>
-          <p>You can eat in a calorie deficit.</p>
+          <p>You can eat less. You can do cardio. You can do arm exercises.</p>
+          <p>But that area stays the same—because the tissue shut down.</p>
           <p>
-            <b>
-              <span style={{ fontWeight: "normal" }}>You can do cardio.</span>
-            </b>
+            Your body isn't ignoring your work. That area literally can't take
+            part anymore.
           </p>
           <p>
-            <b>
-              <span style={{ fontWeight: "normal" }}>
-                You can do arm exercises.
-              </span>
-            </b>
+            Like a bear that went into hibernation—it's not dead, it's just
+            deeply asleep and not responding to anything.
           </p>
-          <p>
-            But that specific area remains unresponsive—because{" "}
-            <b>&nbsp;the tissue has entered metabolic dormancy</b>.
-          </p>
-          <p>Your body isn't ignoring your efforts.</p>
-          <p>That area literally can't participate in the process anymore.</p>
         </TextSection>
 
         {/* Why Everything You've Tried Has Failed */}
         <TextSection>
           <h2>Why Everything You've Tried Has Failed</h2>
           <p>
-            Once I understood this, I looked back at every protocol I'd
-            recommended—and realized why none of them worked for this specific
-            problem:
+            Once I understood this, I looked back at everything I'd told women
+            to do—and saw why none of it worked for arms:
           </p>
-          <h3>
-            <span>Diet and exercise?</span>
-          </h3>
-          <p>They work beautifully for metabolically active tissue.</p>
-          <p>But they can't "wake up" tissue that's already shut down.</p>
+          <h3>Diet and exercise?</h3>
           <p>
-            <b>
-              You'll lose fat everywhere else while those upper arms remain
-              unchanged
-            </b>
-            .
+            They work great for tissue that's still active. But they can't "wake
+            up" tissue that's already shut down.
+          </p>
+          <p>
+            It's like shouting at someone wearing noise-canceling headphones—it
+            doesn't matter how loud you yell, they can't hear you.
+          </p>
+          <p>
+            You'll lose fat everywhere else while those upper arms stay the
+            same.
           </p>
         </TextSection>
 
@@ -218,32 +196,26 @@ export default function Index() {
         {/* Why Everything Failed Continued */}
         <TextSection>
           <h3>Arm exercises and tricep dips?</h3>
-          <p>They strengthen the muscle underneath.</p>
           <p>
-            But if the fascia above it is rigid and blood flow is restricted,
-            you're essentially strengthening a muscle that's trapped under
-            dormant tissue.
+            They make the muscle stronger underneath—but if the tissue above it
+            is stiff and blood flow is low, you're just making a muscle that's
+            trapped under sleeping tissue.
           </p>
-          <h3>Topical creams and treatments?</h3>
+          <h3>Creams and treatments?</h3>
           <p>
-            They can't penetrate deep enough to reach the fascial layer or
-            affect cellular energy.
+            They can't go deep enough to reach the stuck tissue or affect how
+            cells work. They work on the surface while the problem is three
+            layers deep.
           </p>
+          <h3>Hormone therapy?</h3>
           <p>
-            They work on the surface while the problem exists three layers deep.
+            Even when we fix hormone levels, if the tissue already shut down, it
+            won't just "wake up" because hormones get better.
           </p>
-          <h3>Hormonal therapy?</h3>
-          <p>
-            Even when we optimize hormone levels, if the tissue has already
-            entered dormancy, it won't spontaneously "wake up" just because
-            hormones improve.
-          </p>
-          <p>The damage is already done.</p>
-          <p>I realized we'd been treating the wrong problem entirely.</p>
-          <p>We weren't dealing with fat that needed to be burned.</p>
-          <p>
-            <b>We were dealing with tissue that needed to be reactivated.</b>
-          </p>
+          <p>The damage is done.</p>
+          <p>I saw we'd been treating the wrong problem.</p>
+          <p>We weren't dealing with fat that needed to burn.</p>
+          <p>We were dealing with tissue that needed to wake up.</p>
         </TextSection>
 
         {/* IMAGE 5 */}
@@ -254,36 +226,26 @@ export default function Index() {
 
         {/* The Missing Link */}
         <TextSection>
-          <h2>The Missing Link: Metabolic Reactivation</h2>
+          <h2>The Missing Link: Waking Up the Tissue</h2>
           <p>After that conference, I became obsessed with one question:</p>
+          <p>If tissue can shut down, can it be brought back?</p>
           <p>
-            If tissue can enter metabolic shutdown, can it be brought back
-            online?
+            I spent months reading research about tissue rehab. Most of it was
+            about recovery after surgery or sports injuries.
           </p>
           <p>
-            I spent months reading research about tissue rehab.
-            <br />
+            But the answer was clear: certain types of stimulation could restore
+            cell communication and "wake up" sleeping tissue.
           </p>
-          <p>Most of it was about recovery after surgery or sports injuries.</p>
+          <p>The problem?</p>
           <p>
-            But the mechanism was clear:{" "}
-            <b>
-              &nbsp;certain types of stimulation could restore cellular
-              communication and "wake up" dormant tissue
-            </b>
-            .
+            These treatments needed expensive equipment and weekly clinic
+            visits—physical therapy, special massage, professional devices.
           </p>
+          <p>The women I worked with couldn't afford $150 a week forever.</p>
           <p>
-            The problem? These treatments required expensive equipment and
-            ongoing clinical sessions—physical therapy, specialized massage,
-            professional-grade neuromuscular devices.
-          </p>
-          <p>
-            The women I worked with couldn't afford $150/week in perpetuity.
-          </p>
-          <p>
-            Then, six months ago, a woman came to my office and showed me{" "}
-            <b>&nbsp;something that changed everything</b>.
+            Then, six months ago, a woman came to my office and showed me
+            something that changed everything.
           </p>
         </TextSection>
 
@@ -297,34 +259,29 @@ export default function Index() {
         <TextSection>
           <h2>"Dr. Mitchell, I Think I Finally Found Something That Works"</h2>
           <p>Jennifer was 65.</p>
-          <p>Post-menopausal.</p>
+          <p>She had already gone through menopause.</p>
           <p>
-            She'd been extremely frustrated—doing everything right, seeing
-            results everywhere except her upper arms.
+            She'd been so frustrated—doing everything right, seeing results
+            everywhere except her upper arms.
           </p>
-          <p>She walked into my office looking different.</p>
-          <p>Not dramatically thinner.</p>
-          <p>But tighter.</p>
-          <p>More toned.</p>
-          <p>
-            The loose, sagging quality of her upper arms had visibly improved.
-          </p>
-          <p>"What did you do?" I asked immediately.</p>
+          <p>Then one day she walked into my office looking different.</p>
+          <p>Not thinner.</p>
+          <p>But tighter. More toned.</p>
+          <p>The loose, sagging look of her upper arms had clearly improved.</p>
+          <p>"What did you do?" I asked right away.</p>
           <p>She pulled out a small rose-gold device from her bag.</p>
-          <p>"I was sceptical," she admitted.</p>
           <p>
-            "But I read about the technology—how it works on multiple tissue
-            layers at once, not just the surface.
+            "I didn't believe it at first," she said. "But I read about how it
+            works on all the tissue layers at once, not just the surface. I
+            thought, worst case, I'd return it."
           </p>
-          <p>I figured, worst case, I'd return it."</p>
+          <p>She'd been using it four times a week for eight weeks.</p>
+          <p>Same diet. Same exercise. Same life.</p>
           <p>
-            She'd been using it four times per week for eight weeks while
-            maintaining her normal routine—same diet, same exercise, same
-            lifestyle.
+            "I started noticing changes around week three," she said. "The area
+            felt tighter when I tensed my arm. In week six, I could see the
+            difference."
           </p>
-          <p>"I started noticing changes around week three," she said.</p>
-          <p>"The area felt tighter when I tensed my arm.</p>
-          <p>In the sixth week, I could see the difference."</p>
         </TextSection>
 
         {/* IMAGE 6 */}
@@ -335,17 +292,13 @@ export default function Index() {
 
         {/* Why This Works */}
         <TextSection>
-          <p>I was intrigued.</p>
-          <p>As a physician, I'm deeply skeptical of at-home devices.</p>
+          <p>I was curious.</p>
+          <p>As a doctor, I don't trust at-home devices.</p>
+          <p>Most of them are overpriced junk that prey on desperate women.</p>
+          <p>But Jennifer's results were real.</p>
           <p>
-            Most of them are overpriced gimmicks that prey on desperate women.
-          </p>
-          <p>
-            <b>But Jennifer's results were undeniable.</b>
-          </p>
-          <p>
-            And when she explained the technology that she read about
-            (Multi-Layer Stimulation Reset) the mechanism made perfect sense.
+            And when she explained the technology (Multi-Layer Stimulation
+            Reset™), it made perfect sense.
           </p>
         </TextSection>
 
@@ -354,11 +307,9 @@ export default function Index() {
           <h2>Why This Works When Everything Else Failed</h2>
           <p>
             Here's what makes this different from every other device, cream, or
-            protocol:
+            plan:
           </p>
-          <p>
-            <b>Most treatments work on ONE layer:</b>
-          </p>
+          <p>Most treatments work on ONE layer:</p>
           <ul>
             <li>
               Creams work on skin (surface only)
@@ -366,65 +317,45 @@ export default function Index() {
               <br />
             </li>
             <li>
-              Standard massage works on fascia (middle layer only)
+              Massage works on tissue (middle layer only)
               <br />
               <br />
             </li>
             <li>Exercise works on muscle (deep layer only)</li>
           </ul>
+          <p>But the shutdown affects ALL THREE layers at the same time.</p>
           <p>
-            But <b>metabolic shutdown affects ALL THREE layers</b>
-            &nbsp;simultaneously.
+            The ReSculpt (the device Jennifer brought that day) uses Multi-Layer
+            Stimulation Reset technology.
           </p>
-          <p>
-            The ReSculpt (the device Jennifer brought into my office that day)
-            uses Multi-Layer Stimulation Reset technology.
-          </p>
-          <p>
-            This system delivers layered vibrations designed to reach each
-            tissue type's specific resonance point.
-          </p>
+          <p>It sends different signals to reach each tissue type.</p>
           <p>Think of it like this:</p>
-          <p>Your skin tissue responds to one frequency.</p>
-          <p>Your fascial tissue responds to another.</p>
-          <p>Your muscle tissue responds to a third.</p>
+          <p>Your skin responds to one signal.</p>
+          <p>Your tissue responds to another.</p>
+          <p>Your muscle responds to a third.</p>
           <p>
-            <b>Most devices use a single frequency</b> (usually targeting
-            surface-level skin or basic muscle contraction).
-          </p>
-          <p>That's why they feel nice but don't create lasting change.</p>
-          <p>
-            <b>ReSculpt delivers all three frequencies simultaneously.</b>
+            Most devices use just one signal (usually for surface skin or basic
+            muscle). That's why they feel nice but don't create real change.
           </p>
           <p>
-            It penetrates through the skin layer, activates the fascial layer,
-            and engages the muscle layer—all in one treatment session.
+            ReSculpt sends all three signals at once—going through the skin
+            layer, waking up the tissue layer, and turning on the muscle layer
+            in one session.
           </p>
-          <p>It's not vibrating fat away.</p>
-          <p>It's not "melting" anything.</p>
+          <p>It's not shaking fat away. It's not "melting" anything.</p>
+          <p>It's restoring communication to tissue that went silent.</p>
           <p>
-            <b>
-              It's restoring metabolic communication to tissue that had gone
-              silent.
-            </b>
+            It's doing what a trained physical therapist does with hands—but you
+            control it at home.
           </p>
+          <p>This is the same idea professional clinics use.</p>
           <p>
-            It's essentially doing what a trained physical therapist does with
-            manual fascial release and neuromuscular re-education.
-          </p>
-          <p>
-            But you control the frequency, duration, and consistency at home.
-          </p>
-          <p>
-            This is the same principle professional body sculpting clinics use.
-          </p>
-          <p>
-            They charge $1,500+ per area because they understood the signaling
+            And they charge $1,500+ per area because they understood the signal
             problem years before anyone else.
           </p>
           <p>
-            But the technology has advanced enough that this level of
-            stimulation can now be recreated safely at home.
+            But the technology got good enough that this level can now be done
+            safely at home.
           </p>
         </TextSection>
 
@@ -439,29 +370,29 @@ export default function Index() {
           <h2>
             Why Clinics Charge $3,000+ For This (And Why You Don't Have To)
           </h2>
-          <p>Here's something most women don't realize:</p>
+          <p>Here's something most women don't know:</p>
           <p>
-            When you go to a professional body sculpting clinic and pay
-            $2,000-$4,000 per treatment area, you're not paying for them to
-            "work harder" on your fat or "burn more calories."
+            When you go to a professional clinic and pay $2,000-$4,000 per area,
+            you're not paying for them to "work harder" on your fat or "burn
+            more calories."
+          </p>
+          <p>You're paying for tissue re-signaling.</p>
+          <p>Clinics understood the signal problem years before anyone else.</p>
+          <p>
+            They knew stubborn areas weren't stubborn because of too much fat.
           </p>
           <p>
-            <b>You're paying for tissue re-signaling.</b>
+            They were stubborn because the tissue stopped responding to signals.
           </p>
           <p>
-            Clinics understood the signaling problem years before anyone else.
+            So they made multi-layer technology that could "wake up" sleeping
+            tissue by sending exact signals to fat, tissue, and muscle all at
+            once.
           </p>
+          <p>That's why clinics get results when everything else fails.</p>
           <p>
-            They knew that stubborn areas weren't stubborn because of excess
-            fat, they were stubborn because the tissue had stopped responding to
-            metabolic signals.
-          </p>
-          <p>
-            <b>So they developed multi-layer stimulation technology</b>.
-          </p>
-          <p>
-            This technology could "wake up" dormant tissue by delivering precise
-            frequencies to fat, fascia, and muscle simultaneously.
+            Not because they have magic machines—but because they finally fixed
+            the actual problem.
           </p>
         </TextSection>
 
@@ -473,103 +404,78 @@ export default function Index() {
 
         {/* Clinic Cost Explanation */}
         <TextSection>
-          <p>That's why clinics get results when everything else fails.</p>
           <p>
-            Not because they have magic machines—but because they finally
-            addressed the actual problem.
+            Ten years ago, this level of multi-layer work needed clinic
+            equipment—expensive, huge, needing trained workers and many sessions
+            at $500-$1,500 each.
           </p>
           <p>
-            Ten years ago,{" "}
-            <b>
-              &nbsp;this level of multi-layer stimulation required clinic-grade
-              equipment
-            </b>
-            .
+            But new technology now lets the same three-layer work happen in a
+            device you control at home.
           </p>
           <p>
-            It was expensive, immobile, requiring trained operators and multiple
-            sessions at $500-$1,500 each.
+            The science is the same. The delivery just became available to
+            everyone.
           </p>
           <p>
-            But advances in tissue-penetration technology have changed
-            everything.
-          </p>
-          <p>
-            <b>
-              The same three-layer stimulation can now be delivered in a device
-              you control at home.
-            </b>
-          </p>
-          <p>The mechanism is identical.</p>
-          <p>The delivery system has simply become accessible.</p>
-          <p>ReSculpt doesn't "replicate" clinic technology.</p>
-          <p>
-            It uses the same core principle that makes clinics work, now refined
-            for safe, consistent at-home use.
+            ReSculpt doesn't "copy" clinic technology—it uses the same core idea
+            that makes clinics work, now made for safe, regular at-home use.
           </p>
         </TextSection>
 
         {/* If This Really Worked Section */}
         <TextSection>
           <h2>"If This Really Worked, Wouldn't Doctors Be Doing It?"</h2>
-          <p>This is the question I hear most often—and it's a fair one.</p>
+          <p>This is the question I hear most—and it's fair.</p>
           <p>
-            Here's the truth: Doctors have recommended similar technology, they
+            Here's the truth: Doctors have recommended similar technology—they
             just haven't been recommending at-home versions until recently.
           </p>
           <p>Why?</p>
           <p>
             Because until the last few years, at-home body devices fell into two
-            categories:
+            groups:
           </p>
           <ul>
             <li>
-              Surface-only stimulation (vibration belts, heated wraps) that
-              couldn't penetrate deep enough to affect tissue metabolism
+              Surface-only (vibration belts, heated wraps) that couldn't go deep
+              enough to affect how tissue works
               <br />
               <br />
             </li>
             <li>
-              Single-layer devices (basic EMS units) that could activate muscle
-              but missed the fat and fascia layers entirely
+              Single-layer devices (basic muscle units) that could turn on
+              muscle but missed the fat and tissue layers completely
             </li>
           </ul>
-          <p>Neither could recreate true multi-layer stimulation.</p>
+          <p>Neither could create true multi-layer work.</p>
           <p>
-            So doctors rightfully remained skeptical of at-home devices—because
-            most of them didn't work.
+            So doctors were right to doubt at-home devices—because most of them
+            didn't work.
           </p>
+          <p>What changed?</p>
           <p>
-            <b>What changed?</b>
-          </p>
-          <p>
-            Advances in technology now allow multiple frequencies designed for
-            different layers of tissue to be delivered simultaneously in a
-            single device.
+            New technology now lets multiple tissue-specific signals be sent at
+            the same time in a small device.
           </p>
           <p>This wasn't possible even five years ago.</p>
           <p>
-            <b>
-              ReSculpt is the first at-home device I've seen that delivers
-              genuine three-layer stimulation
-            </b>
-            , the same mechanism clinics use.
+            ReSculpt is the first at-home device I've seen that sends genuine
+            three-layer signals, the same way clinics do.
           </p>
-          <p>Is it exactly identical to a $60,000 clinic machine? No.</p>
+          <p>Is it exactly like a $60,000 clinic machine? No.</p>
           <p>
-            But does it deliver the core mechanism (multi-layer tissue
-            signaling) that makes clinic treatments effective?
+            But does it deliver the core science (multi-layer tissue signaling)
+            that makes clinic treatments work?
           </p>
+          <p>Yes.</p>
           <p>
-            <b>Yes.</b>
+            And because you control how often and how long at home, many of the
+            women I've recommended the device to actually see better results
+            than they did with occasional clinic visits.
           </p>
-          <p>
-            And because you control the frequency and consistency at home, many
-            of the women I've recommended the device to actually see better
-            results than they did with sporadic clinic visits.
-          </p>
-          <p>This isn't a "cheap alternative."</p>
-          <p>It's the same science, evolved for accessibility.</p>
+          <p>This isn't a "cheap copy."</p>
+          <p>It's the same science, made accessible.</p>
         </TextSection>
 
         {/* IMAGE 8 - Before What I Started Seeing Repeatedly */}
@@ -594,27 +500,22 @@ export default function Index() {
         {/* What I Started Seeing Repeatedly */}
         <TextSection>
           <h2 ref={drMitchellSectionRef}>What I Started Seeing Repeatedly</h2>
+          <p>After Jennifer's results, I couldn't stop thinking about it.</p>
           <p>
-            After Jennifer's results, I couldn't stop thinking about the
-            mechanism.
+            If Multi-Layer Stimulation could wake up sleeping tissue, it should
+            work regularly—not just for one woman.
           </p>
           <p>
-            If Multi-Layer Stimulation could reactivate dormant tissue, it
-            should work consistently—not just for one woman.
-          </p>
-          <p>
-            <b>So I started recommending it to other women</b> who fit the same
-            profile: doing everything right, but that upper arms remained
+            So I started recommending it to other women who fit the same
+            pattern: doing everything right, but those upper arms stayed
             stubbornly unresponsive.
           </p>
+          <p>I didn't tell them what to expect.</p>
           <p>
-            I didn't tell them what to expect. I simply explained the technology
-            and suggested they try it for 8-12 weeks while maintaining their
-            current routine.
+            I just explained the technology and said to try it for 8-12 weeks
+            while keeping their normal routine.
           </p>
-          <p>
-            <b>What happened next completely surprised me.</b>
-          </p>
+          <p>What happened next totally surprised me.</p>
         </TextSection>
 
         {/* Case Example 1: Linda */}
@@ -629,42 +530,39 @@ export default function Index() {
           </p>
           <p>
             "I'd wave goodbye to someone and feel my arm keep moving," she told
-            me, mortified. "I started wearing cardigans in 35-degree heat just
+            me, embarrassed. "I started wearing cardigans in 35-degree heat just
             to hide them."
           </p>
           <p>
-            She'd been doing arm exercises with light weights three times per
-            week. Her trainer kept telling her to "build more muscle."
+            She'd been doing arm exercises with light weights three times a
+            week.
           </p>
-          <p>But the sagging skin and jiggle only seemed to get worse.</p>
-          <p>"I can feel the muscle underneath," she said, frustrated.</p>
+          <p>Her trainer kept saying to "build more muscle."</p>
+          <p>But the sagging skin and jiggle only got worse.</p>
           <p>
-            "But there's all this loose, wobbly stuff on top that won't budge."
-          </p>
-          <p>
-            <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 4
-            days per week, while continuing her regular exercise routine.
+            "I can feel the muscle underneath," she said, frustrated. "But
+            there's all this loose, wobbly stuff on top that won't move."
           </p>
           <p>
-            <strong>Timeline:</strong>
+            Her plan: Used ReSculpt 10 minutes per day, 4 days per week, while
+            keeping her regular exercise routine.
           </p>
+          <p>Timeline:</p>
           <ul>
             <li>
-              <strong>Week 2:</strong> "The area feels tighter when I flex my
-              arm."
+              Week 2: "The area feels tighter when I flex my arm."
               <br />
               <br />
             </li>
             <li>
-              <strong>Week 5:</strong> "My sister asked if I'd had surgery. I
-              told her no, but I could see what she meant. The hanging part is
-              less... droopy."
+              Week 5: "My sister asked if I'd had surgery. I said no, but I
+              could see what she meant. The hanging part is less... droopy."
               <br />
               <br />
             </li>
             <li>
-              <strong>Week 8:</strong> "I measured. I'm down 2 inches around my
-              upper arms. Same weight. Same routine. Just... firmer."
+              Week 8: "I measured. I'm down 2 inches around my upper arms. Same
+              weight. Same routine. Just... firmer."
             </li>
           </ul>
         </TextSection>
@@ -678,14 +576,13 @@ export default function Index() {
         {/* Linda Notes */}
         <TextSection>
           <p>
-            <strong>My notes:</strong> When I saw Linda at week 8, the fascial
-            tissue had noticeably improved in mobility.
+            My notes: When I saw Linda at week 8, the tissue had clearly
+            improved.
           </p>
           <p>
-            The "bat wing" quality was significantly reduced. Her tricep
-            engagement was visibly stronger.
+            The "bat wing" look was much less. Her tricep was clearly stronger.
+            The tissue had literally woken back up.
           </p>
-          <p>The tissue had quite literally woken back up.</p>
         </TextSection>
 
         {/* Case Example 2: Patricia */}
@@ -697,8 +594,7 @@ export default function Index() {
           <p>Patricia came to me devastated.</p>
           <p>
             "I haven't worn a short-sleeved top in public since I was 52," she
-            said. "Not to the beach. Not to family gatherings. I feel like I'm
-            trapped."
+            said. "Not to the beach. Not to family gatherings. I feel trapped."
           </p>
           <p>
             She'd tried everything—tricep exercises, resistance bands, even
@@ -706,33 +602,31 @@ export default function Index() {
           </p>
           <p>
             "The exercises made my arms stronger, but they still looked the
-            same," she said. "Just... saggy. Crepey. Old."
+            same," she said. "Just... saggy. Wrinkly. Old."
           </p>
           <p>
-            <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 5
-            days per week, combined with her existing walking routine.
+            Her plan: Used ReSculpt 10 minutes per day, 5 days per week, along
+            with her regular walking routine.
           </p>
-          <p>
-            <strong>Timeline:</strong>
-          </p>
+          <p>Timeline:</p>
           <ul>
             <li>
-              <strong>Week 3:</strong> "I don't see much yet, but it feels
-              firmer. Like there's actually muscle definition under there now."
+              Week 3: "I don't see much yet, but it feels firmer. Like there's
+              actually muscle showing under there now."
               <br />
               <br />
             </li>
             <li>
-              <strong>Week 6:</strong> "My husband said, 'Your arms look
-              different.' I thought he was being nice. Then I looked in the
-              mirror wearing a singlet. He was right."
+              Week 6: "My husband said, 'Your arms look different.' I thought he
+              was being nice. Then I looked in the mirror wearing a singlet. He
+              was right."
               <br />
               <br />
             </li>
             <li>
-              <strong>Week 10:</strong> "I wore a sleeveless dress to my
-              granddaughter's birthday party. First time in 15 years. I didn't
-              think about my arms once the entire day."
+              Week 10: "I wore a sleeveless dress to my granddaughter's birthday
+              party. First time in 15 years. I didn't think about my arms once
+              the whole day."
             </li>
           </ul>
         </TextSection>
@@ -759,12 +653,12 @@ export default function Index() {
         {/* Patricia Notes */}
         <TextSection>
           <p>
-            <strong>My notes:</strong> Patricia's case was particularly moving
-            because the psychological shift was as dramatic as the physical one.
+            My notes: Patricia's case was really moving because the mental shift
+            was as big as the physical one.
           </p>
-          <p>This wasn't just about appearance—it was about freedom.</p>
+          <p>This wasn't just about looks—it was about freedom.</p>
           <p>
-            The tissue reactivation gave her back the confidence to stop hiding.
+            The tissue waking up gave her back the confidence to stop hiding.
           </p>
         </TextSection>
 
@@ -776,44 +670,39 @@ export default function Index() {
           <p>Monica walked into my office with a list.</p>
           <p>
             She'd tried: special arm exercises from YouTube, firming creams,
-            collagen supplements, three different personal trainers, and even
-            considered arm lift surgery.
+            collagen pills, three different personal trainers, and even thought
+            about arm lift surgery.
           </p>
           <p>
-            "My surgeon quoted me $12,000," she said, nearly in tears. "I can't
-            afford that. But I hate my arms so much I was considering it
-            anyway."
+            "My surgeon said it would cost $12,000," she said, almost crying. "I
+            can't afford that. But I hate my arms so much I was thinking about
+            it anyway."
           </p>
           <p>
-            Her arms weren't dramatically large—they were just loose, soft, and
-            completely unresponsive to everything she'd tried.
+            Her arms weren't really large—they were just loose, soft, and
+            totally unresponsive to everything she'd tried.
           </p>
           <p>
-            <strong>Her approach:</strong> Used ReSculpt 15 minutes per day, 3
-            days per week, while continuing her current Pilates routine.
+            Her plan: Used ReSculpt 15 minutes per day, 3 days per week, while
+            keeping her current Pilates routine.
           </p>
-          <p>
-            <strong>Timeline:</strong>
-          </p>
+          <p>Timeline:</p>
           <ul>
             <li>
-              <strong>Week 4:</strong> "I almost quit because I wasn't seeing
-              anything. Then I put on a dress I wore last month and the sleeves
-              fit way better."
+              Week 4: "I almost quit because I wasn't seeing anything. Then I
+              put on a dress I wore last month and the sleeves fit way better."
               <br />
               <br />
             </li>
             <li>
-              <strong>Week 7:</strong> "My Pilates instructor asked what I
-              changed. She said my arm definition during class is noticeably
-              stronger."
+              Week 7: "My Pilates teacher asked what I changed. She said my arm
+              shape during class is clearly better."
               <br />
               <br />
             </li>
             <li>
-              <strong>Week 12:</strong> "I finally understand what happened. It
-              wasn't about losing fat. My body just needed to remember how to
-              use that area again."
+              Week 12: "I finally get what happened. It wasn't about losing fat.
+              My body just needed to remember how to use that area again."
             </li>
           </ul>
         </TextSection>
@@ -840,20 +729,16 @@ export default function Index() {
         {/* Monica Notes */}
         <TextSection>
           <p>
-            <strong>My notes:</strong> Monica's case taught me something
-            critical.
+            My notes: Monica's case taught me something important—many women are
+            trying to tone arms that aren't active enough to respond.
           </p>
           <p>
-            Many women are trying to tone arms that aren't metabolically active
-            enough to respond.
+            Once we woke up the tissue, her existing healthy habits finally had
+            something to work with.
           </p>
           <p>
-            Once we reactivated the tissue, her existing healthy habits finally
-            had something to work with.
-          </p>
-          <p>
-            She improved another inch in her upper arms between weeks 8-12,
-            despite no changes to diet or exercise.
+            She improved another inch in her upper arms between weeks 8-12, with
+            no changes to diet or exercise.
           </p>
         </TextSection>
 
@@ -872,70 +757,59 @@ export default function Index() {
         <TextSection>
           <h2>Why This Technology Works (And Why Most Devices Don't)</h2>
           <p>
-            After watching woman after woman experience similar results, I
-            started understanding exactly why ReSculpt succeeds where other
-            approaches fail.
+            After watching woman after woman get similar results, I started
+            understanding exactly why ReSculpt works where other things fail.
           </p>
           <p>Here's the difference:</p>
           <p>
-            Most at-home devices use single-frequency vibration—essentially a
-            strong massage that feels good in the moment.
+            Most at-home devices use single-signal vibration—basically a strong
+            massage that feels good in the moment but can't go deep enough to
+            affect tissue movement or muscle turning on.
           </p>
           <p>
-            But they can't penetrate deep enough to affect fascial mobility or
-            muscle activation.
+            You might feel temporary smoothness (from more surface blood flow),
+            but the real problem stays untouched.
           </p>
           <p>
-            You might feel temporary smoothness from increased surface
-            circulation.
-          </p>
-          <p>But the underlying problem remains untouched.</p>
-          <p>
-            <b>
-              ReSculpt uses Multi-Layer Stimulation Reset—a system that delivers
-              layered frequencies simultaneously
-            </b>
-            , each calibrated to reach a different tissue depth:
+            ReSculpt uses Multi-Layer Stimulation Reset—a system that sends
+            layered signals at the same time, each set to reach a different
+            tissue depth:
           </p>
           <ul>
             <li>
-              Surface frequency stimulates skin microcirculation and lymphatic
-              drainage
+              Surface signal turns on skin blood flow and fluid drainage.
               <br />
               <br />
             </li>
             <li>
-              Mid-layer frequency mobilizes fascial tissue and breaks up
-              adhesions
+              Mid-layer signal loosens stuck tissue and breaks up blocks.
               <br />
               <br />
             </li>
             <li>
-              Deep frequency activates neuromuscular response and restores
-              metabolic signaling
+              Deep signal turns on muscle response and restores cell signaling.
             </li>
           </ul>
-          <p>Think of it like a defibrillator for dormant tissue.</p>
           <p>It doesn't burn fat or melt anything away.</p>
-          <p>It restarts the metabolic conversation that had gone silent.</p>
-          <p>Once that communication is restored:</p>
+          <p>It restarts the conversation that had gone quiet.</p>
+          <p>Once that communication comes back:</p>
           <ul>
             <li>
-              Blood flow increases to the area.
+              Blood flow goes up in the area.
               <br />
               <br />
             </li>
             <li>
-              Fascia regains mobility.
+              Tissue quality improves.
               <br />
               <br />
             </li>
             <li>
-              Muscle can engage properly again.
+              Muscle can work properly again.
               <br />
               <br />
             </li>
-            <li>Fat cells start responding to normal metabolic signals.</li>
+            <li>Fat cells start responding to normal signals</li>
           </ul>
           <p>
             And then your healthy habits start working on that area again
@@ -964,97 +838,82 @@ export default function Index() {
         <TextSection>
           <h2>Setting Realistic Expectations (Because I'm A Doctor)</h2>
           <p>I need to be very clear about something:</p>
-          <p>
-            <b>This is not magic.</b>
-          </p>
-          <p>
-            <b>This is metabolic reactivation.</b>
-          </p>
+          <p>This is not magic. This is your tissue waking up.</p>
           <p>
             If you're looking for a device that melts fat while you sleep, this
             isn't it.
           </p>
           <p>
-            If you want toned arms without effort, this won't give you that.
+            If you want perfect toned arms without work, this won't give you
+            that.
           </p>
           <p>But if you're someone who:</p>
           <ul>
             <li>
-              Eats well and exercises consistently,
+              Exercises regularly and eats well
               <br />
               <br />
             </li>
             <li>
-              Has lost weight everywhere except in your upper arms,
+              Has lost weight everywhere except those upper arms
               <br />
               <br />
             </li>
             <li>
-              Feels like that specific area "stopped responding" after hormonal
-              changes,
+              Feels like that area "stopped responding" after hormones changed
               <br />
               <br />
             </li>
             <li>
-              Has tried everything and can't understand why that area won't
-              budge,
+              Has tried everything and can't understand why that area won't move
             </li>
           </ul>
           <p>...then the problem likely isn't your effort.</p>
-          <p>It's tissue dormancy.</p>
-          <p>And that's exactly what this technology addresses.</p>
-          <p>You still need to maintain healthy habits.</p>
+          <p>It's sleeping tissue.</p>
+          <p>And that's exactly what this technology fixes.</p>
+          <p>You still need to keep healthy habits.</p>
+          <p>You still need to be patient.</p>
           <p>
-            You still need to be patient (most of the women saw noticeable
-            changes between weeks 4-8, with continued improvement through week
-            12).
-          </p>
-          <p>
-            But those habits will finally work with you instead of against
-            silent tissue.
+            But those habits will finally work with you instead of against you.
           </p>
         </TextSection>
 
         {/* Why I'm Comfortable Sharing This */}
         <TextSection>
           <h2>Why I'm Comfortable Sharing This</h2>
-          <p>As a physician, I don't typically recommend at-home devices.</p>
+          <p>As a doctor, I don't usually recommend at-home devices.</p>
           <p>Most of them are overpriced and under-researched.</p>
           <p>But ReSculpt is different for three reasons:</p>
-          <h3>1. The mechanism is scientifically sound.</h3>
-          <p>Multi-Layer Stimulation isn't new technology.</p>
+          <h3>1. The science is sound.</h3>
           <p>
-            It's been used in clinical settings for neuromuscular re-education
-            and post-surgical rehabilitation for years.
+            Multi-Layer Stimulation isn't new technology—it's been used in
+            clinical settings for muscle rehab and post-surgical recovery for
+            years.
           </p>
-          <p>This device makes it accessible for at-home use.</p>
-          <h3>
-            2. It's non-invasive with no contraindications, and it offers a
-            proper clinical trial period.
-          </h3>
+          <p>This device makes it available for at-home use.</p>
+          <h3>2. It's non-invasive and offers a proper trial period.</h3>
           <p>
-            Unlike injections, surgery, or even some aggressive manual
-            therapies, <b>this has an extremely low risk profile</b>.
+            Unlike injections, surgery, or even some harsh manual therapies,
+            this has a very low risk profile.
           </p>
-          <p>The worst case scenario is it doesn't work for you.</p>
           <p>
-            And they offer a <b>100-day money-back guarantee</b> for exactly
-            that reason.
+            The worst case is it doesn't work for you—and they offer a 100-day
+            money-back guarantee for exactly that reason.
           </p>
-          <p>Why 100 days specifically?</p>
-          <p>Because tissue reactivation isn't instant.</p>
+          <p>Why 100 days exactly?</p>
+          <p>Because tissue waking up isn't instant.</p>
           <p>
-            It takes 4-6 weeks of consistent use for metabolically dormant
-            tissue to "wake up" and start responding to signals again.
+            It takes 4-6 weeks of regular use for sleeping tissue to "wake up"
+            and start responding to signals again.
           </p>
           <p>
             A 30-day guarantee wouldn't be enough time to see if your tissue
-            reactivates.
+            wakes up.
           </p>
-          <p>100 days is a genuine clinical trial period.</p>
-          <h3>3. It addresses the actual problem, not the symptom.</h3>
+          <p>100 days is a real trial period.</p>
+          <h3>3. It fixes the actual problem, not the symptom.</h3>
           <p>Most treatments try to burn fat or tighten skin.</p>
-          <p>This reactivates tissue metabolism.</p>
+          <p>This wakes up tissue.</p>
           <p>
             Once the tissue is awake again, your body can do what it's supposed
             to do naturally.
@@ -1082,54 +941,38 @@ export default function Index() {
         <TextSection>
           <h2>A Note on Availability (And Why I'm Sharing This)</h2>
           <p>
-            After seeing consistent results with ReSculpt across multiple women,
-            <b>
-              &nbsp;I reached out to Ovaliss (the company behind the device) and
-              asked if they'd be willing to offer a special arrangement for
-              women reading this article
-            </b>
-            .
+            After seeing regular results with ReSculpt across many women, I
+            reached out to Ovaliss (the company behind the device) and asked if
+            they'd offer a special deal for women reading this article.
           </p>
           <p>Here's why I did that:</p>
           <p>
             Most of the women who've had success with this device found it
-            through hours of late-night research.
-          </p>
-          <p>
-            They were comparing devices, reading reviews, second-guessing
-            themselves.
+            through hours of late-night research, comparing devices, reading
+            reviews, doubting themselves.
           </p>
           <p>
             They told me they wished they'd found it sooner—and wished they
-            hadn't paid full price while they were still skeptical.
+            hadn't paid full price while they were still unsure.
           </p>
           <p>
-            So I negotiated something I rarely do: a reduced introductory price
-            specifically for readers of this article.
+            So I arranged something I rarely do: a reduced price just for
+            readers of this article.
+          </p>
+          <p>Instead of the standard $199, you can get ReSculpt for $119.</p>
+          <p>
+            That's $80 off, not because the device is discounted, but because
+            Ovaliss agreed that women dealing with sleeping tissue shouldn't
+            have to pay full price while they're still building belief that
+            their bodies can respond again.
           </p>
           <p>
-            <b>Instead of the standard $199, you can get ReSculpt for $119.</b>
+            This pricing is only available through the link below, and I don't
+            know how long they'll keep it. (They mentioned it's based on current
+            stock levels, and once those units move, pricing goes back to
+            standard.)
           </p>
-          <p>That's $80 off, not because the device is discounted.</p>
-          <p>
-            But because Ovaliss agreed that women dealing with metabolic tissue
-            dormancy shouldn't have to pay full price.
-          </p>
-          <p>
-            Not while they're still building belief that their bodies can
-            respond again.
-          </p>
-          <p>
-            <b>This pricing is only available through the link below.</b>
-          </p>
-          <p>I don't know how long they'll maintain it.</p>
-          <p>
-            (They mentioned it's based on current inventory levels, and once
-            those units move, pricing returns to standard.)
-          </p>
-          <p>
-            <strong>Here's what you get:</strong>
-          </p>
+          <p>Here's what you get:</p>
           <ul>
             <li>
               ReSculpt device ($119 instead of $199)
@@ -1142,7 +985,9 @@ export default function Index() {
               <br />
             </li>
             <li>
-              100-day money-back guarantee (full reactivation trial period)
+              100-day money-back guarantee (full trial period)
+              <br />
+              <br />
             </li>
             <li>Free ReSculpt Usage Guide</li>
           </ul>
@@ -1162,48 +1007,41 @@ export default function Index() {
         {/* My Recommendation */}
         <TextSection>
           <h2>My Recommendation</h2>
+          <p>Here's what I want you to understand:</p>
+          <p>You haven't failed.</p>
           <p>
-            Here's what I want you to understand: You haven't failed. If you're
-            reading this article, you've likely been very disciplined,
+            If you're reading this article, you've likely been very disciplined,
             consistent, and smart about your health.
           </p>
           <p>
-            And this isn't about invalidating all that effort you've put in…
-            it's about finally giving your arms the one thing they've been
-            missing.
+            And this isn't about saying all that effort you put in doesn't
+            matter... it's about finally giving your arms the one thing they've
+            been missing.
           </p>
-          <p>A way to participate in the work you're already doing.</p>
+          <p>A way to take part in the work you're already doing.</p>
           <p>
             If your upper arms have been unresponsive despite your best
             efforts—if you've felt that frustrating sense of "I'm doing
             everything right, why isn't this area changing?"
           </p>
-          <p>
-            <b>You don't need another arm exercise.</b>
-          </p>
-          <p>
-            <b>You don't need more dieting.</b>
-          </p>
-          <p>
-            <b>You don't need to "try harder."</b>
-          </p>
-          <p>You need to wake up tissue that went dormant.</p>
+          <p>You don't need another arm exercise.</p>
+          <p>You don't need more dieting.</p>
+          <p>You don't need to "try harder."</p>
+          <p>You need to wake up tissue that went to sleep.</p>
           <p>
             And that's exactly what ReSculpt is designed to do, all in the
             comfort of your own home, on your own schedule.
           </p>
-          <p>If it works, you'll know.</p>
-          <p>The area will start feeling different during arm flexion.</p>
+          <p>When it works, you'll know.</p>
+          <p>The area will start feeling different when you flex.</p>
           <p>Then you'll start seeing changes in how sleeves fit.</p>
-          <p>Then you'll see visible contour improvement.</p>
-          <p>
-            <b>If it doesn't work, you return it.</b>
-          </p>
+          <p>Then you'll see clear shape improvement.</p>
+          <p>If it doesn't work, you return it.</p>
           <p>No risk.</p>
           <p>
-            But based on what I've seen in my office, and based on the mechanism
+            But based on what I've seen in my office, and based on the science
             itself, I believe any woman dealing with post-hormonal upper arm
-            resistance will see meaningful improvement.
+            resistance will see real improvement.
           </p>
           <p>Because the problem was never willpower.</p>
           <p>It was tissue that needed to be brought back online.</p>
