@@ -436,22 +436,9 @@ export default function Index() {
 
         {/* Monica Notes */}
         <TextSection>
-          <p>
-            <strong>My notes:</strong> Monica's case taught me something
-            critical.
-          </p>
-          <p>
-            Many women are trying to tone arms that aren't metabolically active
-            enough to respond.
-          </p>
-          <p>
-            Once we reactivated the tissue, her existing healthy habits finally
-            had something to work with.
-          </p>
-          <p>
-            She improved another inch in her upper arms between weeks 8-12,
-            despite no changes to diet or exercise.
-          </p>
+          <p>My notes: Monica's case taught me something important—many women are trying to tone arms that aren't active enough to respond.</p>
+          <p>Once we woke up the tissue, her existing healthy habits finally had something to work with.</p>
+          <p>She improved another inch in her upper arms between weeks 8-12, with no changes to diet or exercise.</p>
         </TextSection>
 
         {/* CTA Before Why This Technology Works */}
