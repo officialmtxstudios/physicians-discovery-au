@@ -519,47 +519,24 @@ export default function Index() {
         {/* Why I'm Comfortable Sharing This */}
         <TextSection>
           <h2>Why I'm Comfortable Sharing This</h2>
-          <p>As a physician, I don't typically recommend at-home devices.</p>
+          <p>As a doctor, I don't usually recommend at-home devices.</p>
           <p>Most of them are overpriced and under-researched.</p>
           <p>But ReSculpt is different for three reasons:</p>
-          <h3>1. The mechanism is scientifically sound.</h3>
-          <p>Multi-Layer Stimulation isn't new technology.</p>
-          <p>
-            It's been used in clinical settings for neuromuscular re-education
-            and post-surgical rehabilitation for years.
-          </p>
-          <p>This device makes it accessible for at-home use.</p>
-          <h3>
-            2. It's non-invasive with no contraindications, and it offers a
-            proper clinical trial period.
-          </h3>
-          <p>
-            Unlike injections, surgery, or even some aggressive manual
-            therapies, <b>this has an extremely low risk profile</b>.
-          </p>
-          <p>The worst case scenario is it doesn't work for you.</p>
-          <p>
-            And they offer a <b>100-day money-back guarantee</b> for exactly
-            that reason.
-          </p>
-          <p>Why 100 days specifically?</p>
-          <p>Because tissue reactivation isn't instant.</p>
-          <p>
-            It takes 4-6 weeks of consistent use for metabolically dormant
-            tissue to "wake up" and start responding to signals again.
-          </p>
-          <p>
-            A 30-day guarantee wouldn't be enough time to see if your tissue
-            reactivates.
-          </p>
-          <p>100 days is a genuine clinical trial period.</p>
-          <h3>3. It addresses the actual problem, not the symptom.</h3>
+          <h3>1. The science is sound.</h3>
+          <p>Multi-Layer Stimulation isn't new technology—it's been used in clinical settings for muscle rehab and post-surgical recovery for years.</p>
+          <p>This device makes it available for at-home use.</p>
+          <h3>2. It's non-invasive and offers a proper trial period.</h3>
+          <p>Unlike injections, surgery, or even some harsh manual therapies, this has a very low risk profile.</p>
+          <p>The worst case is it doesn't work for you—and they offer a 100-day money-back guarantee for exactly that reason.</p>
+          <p>Why 100 days exactly?</p>
+          <p>Because tissue waking up isn't instant.</p>
+          <p>It takes 4-6 weeks of regular use for sleeping tissue to "wake up" and start responding to signals again.</p>
+          <p>A 30-day guarantee wouldn't be enough time to see if your tissue wakes up.</p>
+          <p>100 days is a real trial period.</p>
+          <h3>3. It fixes the actual problem, not the symptom.</h3>
           <p>Most treatments try to burn fat or tighten skin.</p>
-          <p>This reactivates tissue metabolism.</p>
-          <p>
-            Once the tissue is awake again, your body can do what it's supposed
-            to do naturally.
-          </p>
+          <p>This wakes up tissue.</p>
+          <p>Once the tissue is awake again, your body can do what it's supposed to do naturally.</p>
         </TextSection>
 
         {/* IMAGE 15 - Clinical research and evidence */}
