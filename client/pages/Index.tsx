@@ -498,55 +498,22 @@ export default function Index() {
         <TextSection>
           <h2>Setting Realistic Expectations (Because I'm A Doctor)</h2>
           <p>I need to be very clear about something:</p>
-          <p>
-            <b>This is not magic.</b>
-          </p>
-          <p>
-            <b>This is metabolic reactivation.</b>
-          </p>
-          <p>
-            If you're looking for a device that melts fat while you sleep, this
-            isn't it.
-          </p>
-          <p>
-            If you want toned arms without effort, this won't give you that.
-          </p>
+          <p>This is not magic. This is your tissue waking up.</p>
+          <p>If you're looking for a device that melts fat while you sleep, this isn't it.</p>
+          <p>If you want perfect toned arms without work, this won't give you that.</p>
           <p>But if you're someone who:</p>
           <ul>
-            <li>
-              Eats well and exercises consistently,
-              <br />
-              <br />
-            </li>
-            <li>
-              Has lost weight everywhere except in your upper arms,
-              <br />
-              <br />
-            </li>
-            <li>
-              Feels like that specific area "stopped responding" after hormonal
-              changes,
-              <br />
-              <br />
-            </li>
-            <li>
-              Has tried everything and can't understand why that area won't
-              budge,
-            </li>
+            <li>Exercises regularly and eats well<br /><br /></li>
+            <li>Has lost weight everywhere except those upper arms<br /><br /></li>
+            <li>Feels like that area "stopped responding" after hormones changed<br /><br /></li>
+            <li>Has tried everything and can't understand why that area won't move</li>
           </ul>
           <p>...then the problem likely isn't your effort.</p>
-          <p>It's tissue dormancy.</p>
-          <p>And that's exactly what this technology addresses.</p>
-          <p>You still need to maintain healthy habits.</p>
-          <p>
-            You still need to be patient (most of the women saw noticeable
-            changes between weeks 4-8, with continued improvement through week
-            12).
-          </p>
-          <p>
-            But those habits will finally work with you instead of against
-            silent tissue.
-          </p>
+          <p>It's sleeping tissue.</p>
+          <p>And that's exactly what this technology fixes.</p>
+          <p>You still need to keep healthy habits.</p>
+          <p>You still need to be patient.</p>
+          <p>But those habits will finally work with you instead of against you.</p>
         </TextSection>
 
         {/* Why I'm Comfortable Sharing This */}
