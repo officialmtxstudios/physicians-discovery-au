@@ -268,64 +268,26 @@ export default function Index() {
         {/* If This Really Worked Section */}
         <TextSection>
           <h2>"If This Really Worked, Wouldn't Doctors Be Doing It?"</h2>
-          <p>This is the question I hear most often—and it's a fair one.</p>
-          <p>
-            Here's the truth: Doctors have recommended similar technology, they
-            just haven't been recommending at-home versions until recently.
-          </p>
+          <p>This is the question I hear most—and it's fair.</p>
+          <p>Here's the truth: Doctors have recommended similar technology—they just haven't been recommending at-home versions until recently.</p>
           <p>Why?</p>
-          <p>
-            Because until the last few years, at-home body devices fell into two
-            categories:
-          </p>
+          <p>Because until the last few years, at-home body devices fell into two groups:</p>
           <ul>
-            <li>
-              Surface-only stimulation (vibration belts, heated wraps) that
-              couldn't penetrate deep enough to affect tissue metabolism
-              <br />
-              <br />
-            </li>
-            <li>
-              Single-layer devices (basic EMS units) that could activate muscle
-              but missed the fat and fascia layers entirely
-            </li>
+            <li>Surface-only (vibration belts, heated wraps) that couldn't go deep enough to affect how tissue works<br /><br /></li>
+            <li>Single-layer devices (basic muscle units) that could turn on muscle but missed the fat and tissue layers completely</li>
           </ul>
-          <p>Neither could recreate true multi-layer stimulation.</p>
-          <p>
-            So doctors rightfully remained skeptical of at-home devices—because
-            most of them didn't work.
-          </p>
-          <p>
-            <b>What changed?</b>
-          </p>
-          <p>
-            Advances in technology now allow multiple frequencies designed for
-            different layers of tissue to be delivered simultaneously in a
-            single device.
-          </p>
+          <p>Neither could create true multi-layer work.</p>
+          <p>So doctors were right to doubt at-home devices—because most of them didn't work.</p>
+          <p>What changed?</p>
+          <p>New technology now lets multiple tissue-specific signals be sent at the same time in a small device.</p>
           <p>This wasn't possible even five years ago.</p>
-          <p>
-            <b>
-              ReSculpt is the first at-home device I've seen that delivers
-              genuine three-layer stimulation
-            </b>
-            , the same mechanism clinics use.
-          </p>
-          <p>Is it exactly identical to a $60,000 clinic machine? No.</p>
-          <p>
-            But does it deliver the core mechanism (multi-layer tissue
-            signaling) that makes clinic treatments effective?
-          </p>
-          <p>
-            <b>Yes.</b>
-          </p>
-          <p>
-            And because you control the frequency and consistency at home, many
-            of the women I've recommended the device to actually see better
-            results than they did with sporadic clinic visits.
-          </p>
-          <p>This isn't a "cheap alternative."</p>
-          <p>It's the same science, evolved for accessibility.</p>
+          <p>ReSculpt is the first at-home device I've seen that sends genuine three-layer signals, the same way clinics do.</p>
+          <p>Is it exactly like a $60,000 clinic machine? No.</p>
+          <p>But does it deliver the core science (multi-layer tissue signaling) that makes clinic treatments work?</p>
+          <p>Yes.</p>
+          <p>And because you control how often and how long at home, many of the women I've recommended the device to actually see better results than they did with occasional clinic visits.</p>
+          <p>This isn't a "cheap copy."</p>
+          <p>It's the same science, made accessible.</p>
         </TextSection>
 
         {/* IMAGE 8 - Before What I Started Seeing Repeatedly */}
