@@ -173,34 +173,18 @@ export default function Index() {
         <TextSection>
           <h2>"Dr. Mitchell, I Think I Finally Found Something That Works"</h2>
           <p>Jennifer was 65.</p>
-          <p>Post-menopausal.</p>
-          <p>
-            She'd been extremely frustrated—doing everything right, seeing
-            results everywhere except her upper arms.
-          </p>
-          <p>She walked into my office looking different.</p>
-          <p>Not dramatically thinner.</p>
-          <p>But tighter.</p>
-          <p>More toned.</p>
-          <p>
-            The loose, sagging quality of her upper arms had visibly improved.
-          </p>
-          <p>"What did you do?" I asked immediately.</p>
+          <p>She had already gone through menopause.</p>
+          <p>She'd been so frustrated—doing everything right, seeing results everywhere except her upper arms.</p>
+          <p>Then one day she walked into my office looking different.</p>
+          <p>Not thinner.</p>
+          <p>But tighter. More toned.</p>
+          <p>The loose, sagging look of her upper arms had clearly improved.</p>
+          <p>"What did you do?" I asked right away.</p>
           <p>She pulled out a small rose-gold device from her bag.</p>
-          <p>"I was sceptical," she admitted.</p>
-          <p>
-            "But I read about the technology—how it works on multiple tissue
-            layers at once, not just the surface.
-          </p>
-          <p>I figured, worst case, I'd return it."</p>
-          <p>
-            She'd been using it four times per week for eight weeks while
-            maintaining her normal routine—same diet, same exercise, same
-            lifestyle.
-          </p>
-          <p>"I started noticing changes around week three," she said.</p>
-          <p>"The area felt tighter when I tensed my arm.</p>
-          <p>In the sixth week, I could see the difference."</p>
+          <p>"I didn't believe it at first," she said. "But I read about how it works on all the tissue layers at once, not just the surface. I thought, worst case, I'd return it."</p>
+          <p>She'd been using it four times a week for eight weeks.</p>
+          <p>Same diet. Same exercise. Same life.</p>
+          <p>"I started noticing changes around week three," she said. "The area felt tighter when I tensed my arm. In week six, I could see the difference."</p>
         </TextSection>
 
         {/* IMAGE 6 */}
